@@ -12,9 +12,7 @@ Accidents = function(x)
   
   us <- map_data("state")
   
-  AADR.DF <- read.csv("data/AADR-accidents.csv")
-  
-  AccidentwYear <- subset(AADR.DF, YEAR == x, select=c (YEAR, region, DEATHS, AADR))
+  AccidentwYear <- subset("data/AADR.accidents.rda", YEAR == x, select=c (YEAR, region, DEATHS, AADR))
   
   AccidentwYear <- AccidentwYear %>% 
     mutate(region=tolower(region))
