@@ -1,10 +1,21 @@
-Package: anRpackage
+Package: AgeAjustedDeathRates
 Type: Package
-Title: What the package does (short line)
+Title: This package creates colorpleths of US Deaths
 Version: 1.0
-Date: 2016-04-03
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
-License: What license is it under?
+Date: 2016-04-27
+Authors@R: person("Matthew", "Phan", email = "maphan@mail.usf.edu",
+  role = c("aut", "cre"))
+Maintainer: Who to complain to <maphan@mail.usf.edu>
+Description: This package creates colorphleths of US Deaths from 
+  1999 - 2013 for four categories: Accidents, alzheimer, cancer,
+  and the top 10 deaths combined. The data was reported by the
+  Centers for Disease Control and can be found on the opendata.gov
+  portal. http://catalog.data.gov/dataset/age-adjusted-death-rates-for-the-top-10-leading-causes-of-death-united-states-2013
+  This package includes four functions that when you combine a year
+  will produce the map for the ailment at that particular year.
+  Example: >cancer(2011)
+Imports:
+  dplyr,
+  ggplot2
+License: GNU
 RoxygenNote: 5.0.1
