@@ -1,0 +1,766 @@
+YEAR,CAUSE_NAME,region,DEATHS,AADR
+1999,All Causes,Alaska,2708,838.9
+2000,All Causes,Alaska,2914,869.1
+2001,All Causes,Alaska,2974,831.3
+2002,All Causes,Alaska,3030,802.4
+2004,All Causes,Alaska,3051,756.7
+2005,All Causes,Alaska,3168,762.3
+2003,All Causes,Alaska,3180,843.5
+2006,All Causes,Alaska,3354,787.6
+2007,All Causes,Alaska,3463,780.6
+2008,All Causes,Alaska,3494,761.3
+2009,All Causes,Alaska,3618,763.8
+2010,All Causes,Alaska,3728,771.5
+2011,All Causes,Alaska,3849,747.8
+2012,All Causes,Alaska,3912,731.4
+2000,All Causes,Wyoming,3920,851.8
+2004,All Causes,Wyoming,3955,794.8
+2013,All Causes,Alaska,3997,724.4
+2001,All Causes,Wyoming,4029,858.8
+1999,All Causes,Wyoming,4042,895.4
+2005,All Causes,Wyoming,4099,806.5
+2003,All Causes,Wyoming,4172,857.7
+2002,All Causes,Wyoming,4174,878.2
+2008,All Causes,Wyoming,4227,778.9
+2007,All Causes,Wyoming,4266,806.5
+2009,All Causes,Wyoming,4283,769.6
+2006,All Causes,Wyoming,4311,831.1
+2011,All Causes,Wyoming,4387,754.6
+2010,All Causes,Wyoming,4438,778.8
+2012,All Causes,Wyoming,4481,748.3
+2013,All Causes,Wyoming,4516,731.7
+2011,All Causes,District of Columbia,4589,755.9
+2012,All Causes,District of Columbia,4650,757.2
+2010,All Causes,District of Columbia,4672,792.4
+2013,All Causes,District of Columbia,4719,752
+2009,All Causes,District of Columbia,4834,833.3
+1999,All Causes,Vermont,4993,812.9
+2004,All Causes,Vermont,4995,749.4
+2009,All Causes,Vermont,5034,683.2
+2006,All Causes,Vermont,5048,728
+2005,All Causes,Vermont,5066,751.6
+2002,All Causes,Vermont,5075,786.8
+2003,All Causes,Vermont,5120,779.7
+2000,All Causes,Vermont,5127,821.8
+2008,All Causes,District of Columbia,5140,897.6
+2007,All Causes,Vermont,5179,733
+2007,All Causes,District of Columbia,5188,911.2
+2001,All Causes,Vermont,5201,819.6
+2008,All Causes,Vermont,5211,722.5
+2006,All Causes,District of Columbia,5344,951.7
+2010,All Causes,Vermont,5380,718.7
+2011,All Causes,Vermont,5433,711
+2004,All Causes,District of Columbia,5454,972.1
+2005,All Causes,District of Columbia,5483,970.6
+2012,All Causes,Vermont,5491,700.1
+2007,All Causes,North Dakota,5561,680.4
+2003,All Causes,District of Columbia,5573,993
+2004,All Causes,North Dakota,5601,702.2
+2013,All Causes,Vermont,5639,710.6
+2005,All Causes,North Dakota,5744,716.3
+2002,All Causes,District of Columbia,5851,1034.1
+2000,All Causes,North Dakota,5856,761.8
+2006,All Causes,North Dakota,5868,724.4
+2008,All Causes,North Dakota,5871,713.3
+2002,All Causes,North Dakota,5892,755.5
+2009,All Causes,North Dakota,5914,712.7
+2010,All Causes,North Dakota,5944,704.3
+2001,All Causes,District of Columbia,5951,1049.9
+2011,All Causes,North Dakota,5965,697.4
+2000,All Causes,District of Columbia,6001,1061.2
+2012,All Causes,North Dakota,6038,701.2
+2001,All Causes,North Dakota,6048,780.2
+1999,All Causes,District of Columbia,6076,1087.3
+2003,All Causes,North Dakota,6090,776.1
+1999,All Causes,North Dakota,6103,796.8
+2013,All Causes,North Dakota,6233,709.7
+1999,All Causes,Delaware,6666,881.6
+2007,All Causes,South Dakota,6826,712.9
+2004,All Causes,South Dakota,6833,752.4
+2002,All Causes,Delaware,6861,849.3
+2000,All Causes,Delaware,6875,897.1
+2002,All Causes,South Dakota,6898,778.6
+2001,All Causes,South Dakota,6923,790
+2009,All Causes,South Dakota,6923,706.2
+1999,All Causes,South Dakota,6953,808.4
+2000,All Causes,South Dakota,7021,805.7
+2003,All Causes,Delaware,7070,852.9
+2008,All Causes,South Dakota,7083,731.9
+2006,All Causes,South Dakota,7084,752.5
+2005,All Causes,South Dakota,7086,770.7
+2013,All Causes,South Dakota,7099,679.3
+2010,All Causes,South Dakota,7100,715.1
+2001,All Causes,Delaware,7112,903.1
+2003,All Causes,South Dakota,7132,796.6
+2004,All Causes,Delaware,7143,838.2
+2006,All Causes,Delaware,7204,795.7
+2011,All Causes,South Dakota,7314,720.6
+2007,All Causes,Delaware,7327,786.1
+2012,All Causes,South Dakota,7333,712.3
+2005,All Causes,Delaware,7472,851.4
+2009,All Causes,Delaware,7534,768
+2008,All Causes,Delaware,7622,793.5
+2010,All Causes,Delaware,7706,769.9
+2011,All Causes,Delaware,7845,764.2
+2012,All Causes,Delaware,7875,745.4
+2013,All Causes,Delaware,7967,726.8
+2004,All Causes,Montana,8094,783
+2000,All Causes,Montana,8096,843.3
+1999,All Causes,Montana,8128,857.6
+2001,All Causes,Montana,8265,844.1
+1999,All Causes,Hawaii,8270,688.8
+2000,All Causes,Hawaii,8290,675.9
+2001,All Causes,Hawaii,8394,660.4
+2003,All Causes,Montana,8467,837.6
+2006,All Causes,Montana,8472,782.2
+2002,All Causes,Montana,8506,854.4
+2005,All Causes,Montana,8528,807.1
+2007,All Causes,Montana,8624,775.4
+2009,All Causes,Montana,8730,758
+2002,All Causes,Hawaii,8801,673.4
+2010,All Causes,Montana,8827,754.7
+2008,All Causes,Montana,8913,788.7
+2012,All Causes,Montana,8976,732.4
+2003,All Causes,Hawaii,8978,667.1
+2004,All Causes,Hawaii,9030,652.9
+2011,All Causes,Montana,9115,760.6
+2005,All Causes,Hawaii,9136,638.3
+2012,All Causes,Rhode Island,9354,686.5
+2009,All Causes,Rhode Island,9395,711
+2006,All Causes,Hawaii,9432,643.4
+2007,All Causes,Hawaii,9495,631
+2008,All Causes,Hawaii,9501,613.6
+2013,All Causes,Montana,9511,761.3
+1999,All Causes,New Hampshire,9537,815.5
+2000,All Causes,Idaho,9563,809.4
+1999,All Causes,Idaho,9579,825.2
+2010,All Causes,Rhode Island,9579,721.7
+2011,All Causes,Rhode Island,9581,707.3
+2010,All Causes,Hawaii,9617,589.6
+2006,All Causes,Rhode Island,9690,749.1
+2000,All Causes,New Hampshire,9697,815.5
+1999,All Causes,Rhode Island,9708,807.5
+2003,All Causes,New Hampshire,9708,767.3
+2007,All Causes,Rhode Island,9723,747.2
+2008,All Causes,Rhode Island,9738,742.9
+2001,All Causes,Idaho,9753,803.5
+2004,All Causes,Rhode Island,9769,766
+2013,All Causes,Rhode Island,9792,709.6
+2001,All Causes,New Hampshire,9815,809.3
+2002,All Causes,New Hampshire,9853,796
+2009,All Causes,Hawaii,9914,621.9
+2002,All Causes,Idaho,9923,798.8
+2011,All Causes,Hawaii,9923,584.9
+2005,All Causes,Rhode Island,10007,781.2
+2001,All Causes,Rhode Island,10021,816.9
+2000,All Causes,Rhode Island,10027,823.7
+2004,All Causes,Idaho,10028,766.2
+2003,All Causes,Rhode Island,10039,798.7
+2006,All Causes,New Hampshire,10060,733.7
+2009,All Causes,New Hampshire,10100,691.6
+2004,All Causes,New Hampshire,10111,778.9
+2005,All Causes,New Hampshire,10194,766.7
+2010,All Causes,New Hampshire,10201,690.4
+2002,All Causes,Rhode Island,10246,823
+2008,All Causes,New Hampshire,10268,715.3
+2012,All Causes,Hawaii,10274,586.5
+2007,All Causes,New Hampshire,10303,733.2
+2003,All Causes,Idaho,10380,812.8
+2013,All Causes,Hawaii,10505,590.8
+2005,All Causes,Idaho,10556,781.2
+2006,All Causes,Idaho,10613,756
+2012,All Causes,New Hampshire,10730,687.5
+2007,All Causes,Idaho,10822,747
+2011,All Causes,New Hampshire,10823,710.4
+2013,All Causes,New Hampshire,10897,679.1
+2008,All Causes,Idaho,10962,736.8
+2009,All Causes,Idaho,11098,725.1
+2010,All Causes,Idaho,11429,731.6
+2012,All Causes,Idaho,11998,726.6
+2011,All Causes,Idaho,12027,745
+1999,All Causes,Utah,12058,781.6
+1999,All Causes,Maine,12261,865.9
+2006,All Causes,Maine,12294,775.1
+2000,All Causes,Maine,12354,859.4
+2000,All Causes,Utah,12364,788.6
+2001,All Causes,Maine,12421,848.7
+2013,All Causes,Idaho,12434,730.6
+2004,All Causes,Maine,12443,813
+2007,All Causes,Maine,12493,771.6
+2003,All Causes,Maine,12540,829.8
+2008,All Causes,Maine,12541,759.4
+2009,All Causes,Maine,12594,752.6
+2001,All Causes,Utah,12662,785.2
+2002,All Causes,Maine,12694,853.7
+2010,All Causes,Maine,12750,749.6
+2005,All Causes,Maine,12868,828.2
+2012,All Causes,Maine,12870,730.4
+2011,All Causes,Maine,13001,752.8
+2002,All Causes,Utah,13116,794
+2004,All Causes,Utah,13331,768.8
+2003,All Causes,Utah,13412,793.6
+2000,All Causes,New Mexico,13425,808.6
+2005,All Causes,Utah,13432,749.4
+2013,All Causes,Maine,13547,754.2
+1999,All Causes,New Mexico,13676,842.2
+2006,All Causes,Utah,13764,733.7
+2008,All Causes,Utah,14040,703.8
+2001,All Causes,New Mexico,14129,829.5
+2009,All Causes,Utah,14138,686.5
+2007,All Causes,Utah,14143,729.4
+2004,All Causes,New Mexico,14298,786.7
+2002,All Causes,New Mexico,14344,823.8
+2004,All Causes,Nebraska,14657,751.9
+2010,All Causes,Utah,14776,703.2
+2003,All Causes,New Mexico,14805,832.1
+2009,All Causes,Nebraska,14810,710.9
+2006,All Causes,Nebraska,14899,743.7
+2005,All Causes,Nebraska,14963,757.8
+2005,All Causes,New Mexico,14983,800.1
+2000,All Causes,Nebraska,14992,794.6
+1999,All Causes,Nevada,15082,935.9
+2010,All Causes,Nebraska,15171,717.8
+2001,All Causes,Nebraska,15174,796.6
+2000,All Causes,Nevada,15261,918.7
+2007,All Causes,Nebraska,15263,750.4
+2011,All Causes,Utah,15266,699.1
+2006,All Causes,New Mexico,15296,793.1
+2008,All Causes,Nebraska,15461,751.3
+2003,All Causes,Nebraska,15465,798.2
+2011,All Causes,Nebraska,15476,719.8
+2007,All Causes,New Mexico,15482,778.6
+1999,All Causes,Nebraska,15579,830.1
+2009,All Causes,New Mexico,15643,749.8
+2012,All Causes,Nebraska,15659,719
+2012,All Causes,Utah,15676,700
+2002,All Causes,Nebraska,15738,820.2
+2013,All Causes,Nebraska,15754,714.7
+2010,All Causes,New Mexico,15931,749
+2008,All Causes,New Mexico,16005,788.6
+2001,All Causes,Nevada,16285,923.5
+2013,All Causes,Utah,16366,710.4
+2011,All Causes,New Mexico,16452,748.9
+2012,All Causes,New Mexico,16710,744.6
+2013,All Causes,New Mexico,16805,731.8
+2002,All Causes,Nevada,16927,922.3
+2003,All Causes,Nevada,17858,927.3
+2004,All Causes,Nevada,17929,887.6
+2007,All Causes,Nevada,18687,822
+2006,All Causes,Nevada,18872,864.7
+2005,All Causes,Nevada,19029,904.8
+2009,All Causes,Nevada,19224,794.6
+2008,All Causes,Nevada,19335,828.7
+2010,All Causes,Nevada,19623,795.4
+2011,All Causes,Nevada,20343,789.7
+2006,All Causes,West Virginia,20672,947.5
+2005,All Causes,West Virginia,20780,965.1
+2012,All Causes,Nevada,20785,774.6
+2004,All Causes,West Virginia,20793,973
+2001,All Causes,West Virginia,20967,1000.9
+2002,All Causes,West Virginia,21016,999
+1999,All Causes,West Virginia,21049,1012.3
+2007,All Causes,West Virginia,21086,954.2
+2000,All Causes,West Virginia,21114,1011.1
+2010,All Causes,West Virginia,21275,933.6
+2003,All Causes,West Virginia,21306,1003.1
+2009,All Causes,West Virginia,21386,947.7
+2013,All Causes,Nevada,21468,769.8
+2008,All Causes,West Virginia,21557,964.3
+2013,All Causes,West Virginia,21843,923.8
+2011,All Causes,West Virginia,21867,953.2
+2012,All Causes,West Virginia,21915,939.3
+2004,All Causes,Kansas,23818,798
+2009,All Causes,Kansas,24024,757.8
+1999,All Causes,Kansas,24472,848.1
+2007,All Causes,Kansas,24491,787.8
+2010,All Causes,Kansas,24502,762.2
+2006,All Causes,Kansas,24553,802.2
+2003,All Causes,Kansas,24593,829.5
+2001,All Causes,Kansas,24647,844.4
+2005,All Causes,Kansas,24682,816.8
+2000,All Causes,Kansas,24717,850.5
+2008,All Causes,Kansas,24975,794.3
+2002,All Causes,Kansas,25021,851.3
+2011,All Causes,Kansas,25116,767.2
+2012,All Causes,Kansas,25145,761
+2013,All Causes,Kansas,25414,757.7
+2004,All Causes,Iowa,26897,738.3
+1999,All Causes,Colorado,27114,801.8
+2007,All Causes,Iowa,27221,724.2
+2000,All Causes,Colorado,27288,792.1
+2006,All Causes,Iowa,27362,736.1
+2004,All Causes,Arkansas,27528,927.4
+2009,All Causes,Iowa,27544,723
+2010,All Causes,Iowa,27745,721.7
+2001,All Causes,Arkansas,27759,955.4
+2001,All Causes,Iowa,27791,780.1
+2005,All Causes,Iowa,27811,757.5
+2004,All Causes,Mississippi,27871,996.6
+2006,All Causes,Arkansas,27901,909.5
+2003,All Causes,Arkansas,27918,948.2
+1999,All Causes,Arkansas,27925,975.3
+2002,All Causes,Iowa,27978,779.9
+2005,All Causes,Arkansas,28055,931.5
+2000,All Causes,Iowa,28060,794.7
+2003,All Causes,Iowa,28062,776.2
+2011,All Causes,Iowa,28184,722.7
+1999,All Causes,Mississippi,28185,1043.4
+2007,All Causes,Arkansas,28191,906.2
+2000,All Causes,Arkansas,28217,977.1
+2007,All Causes,Mississippi,28255,973.3
+2001,All Causes,Mississippi,28259,1034.3
+2009,All Causes,Mississippi,28275,950.5
+2001,All Causes,Colorado,28294,796.1
+2004,All Causes,Colorado,28309,738.5
+2012,All Causes,Iowa,28389,718.3
+1999,All Causes,Iowa,28411,806.4
+2003,All Causes,Mississippi,28489,1031.6
+2002,All Causes,Arkansas,28513,975.2
+2008,All Causes,Iowa,28541,752.6
+2006,All Causes,Mississippi,28564,999.1
+2009,All Causes,Connecticut,28585,659.3
+2007,All Causes,Connecticut,28651,680.5
+2000,All Causes,Mississippi,28654,1051.9
+2009,All Causes,Arkansas,28673,896.4
+2010,All Causes,Connecticut,28692,652.9
+2008,All Causes,Connecticut,28794,671.9
+2002,All Causes,Mississippi,28853,1051.6
+2010,All Causes,Arkansas,28916,892.7
+2013,All Causes,Iowa,28948,723.7
+2010,All Causes,Mississippi,28965,962
+2008,All Causes,Mississippi,28984,982.8
+2005,All Causes,Mississippi,29196,1028.7
+2002,All Causes,Colorado,29210,804.4
+2006,All Causes,Connecticut,29260,704.6
+2011,All Causes,Mississippi,29278,956.1
+2004,All Causes,Connecticut,29314,725.1
+2012,All Causes,Connecticut,29316,648.2
+2008,All Causes,Arkansas,29322,927.3
+1999,All Causes,Oregon,29422,837.6
+1999,All Causes,Connecticut,29446,783.2
+2005,All Causes,Connecticut,29467,717.7
+2003,All Causes,Colorado,29506,792
+2006,All Causes,Colorado,29521,720.9
+2011,All Causes,Connecticut,29526,660.6
+2012,All Causes,Mississippi,29544,942.9
+2000,All Causes,Oregon,29552,830.9
+2003,All Causes,Connecticut,29627,739.7
+2005,All Causes,Colorado,29627,752.1
+2013,All Causes,Connecticut,29632,646.3
+2011,All Causes,Arkansas,29653,895.3
+2001,All Causes,Connecticut,29827,772.1
+2007,All Causes,Colorado,29993,708
+2012,All Causes,Arkansas,30117,897.5
+2002,All Causes,Connecticut,30122,766.1
+2000,All Causes,Connecticut,30129,793
+2001,All Causes,Oregon,30158,830.5
+2004,All Causes,Oregon,30313,786.4
+2013,All Causes,Arkansas,30437,893.8
+2013,All Causes,Mississippi,30703,959.6
+2003,All Causes,Oregon,30912,816.9
+2005,All Causes,Oregon,31091,787.6
+2002,All Causes,Oregon,31119,839.6
+2009,All Causes,Colorado,31173,689.7
+2008,All Causes,Colorado,31274,715.8
+2006,All Causes,Oregon,31380,773.3
+2007,All Causes,Oregon,31403,756
+2010,All Causes,Colorado,31465,682.7
+2009,All Causes,Oregon,31636,728.4
+2010,All Causes,Oregon,31890,723.1
+2008,All Causes,Oregon,31967,753.2
+2011,All Causes,Colorado,32563,677.8
+2012,All Causes,Oregon,32759,706.6
+2011,All Causes,Oregon,32788,724.1
+2012,All Causes,Colorado,33133,665.6
+2013,All Causes,Colorado,33712,655.4
+2013,All Causes,Oregon,33939,717.5
+2004,All Causes,Oklahoma,34483,945.6
+2001,All Causes,Oklahoma,34682,968.5
+1999,All Causes,Oklahoma,34700,979
+2000,All Causes,Oklahoma,35079,983
+2006,All Causes,Oklahoma,35427,942.5
+2002,All Causes,Oklahoma,35502,986.4
+2009,All Causes,Oklahoma,35601,903.8
+2003,All Causes,Oklahoma,35721,986.5
+2007,All Causes,Oklahoma,36032,945.1
+1999,All Causes,South Carolina,36053,973.5
+2005,All Causes,Oklahoma,36180,981.4
+2010,All Causes,Oklahoma,36529,915.5
+2001,All Causes,South Carolina,36612,949.6
+2012,All Causes,Oklahoma,36870,891.5
+2000,All Causes,South Carolina,36948,980.2
+2008,All Causes,Oklahoma,37014,956.5
+2006,All Causes,Minnesota,37028,675.6
+2004,All Causes,Minnesota,37034,699.7
+2007,All Causes,Minnesota,37138,663.1
+2011,All Causes,Oklahoma,37175,910.9
+2004,All Causes,South Carolina,37276,909.5
+2005,All Causes,Minnesota,37535,698.6
+2003,All Causes,Minnesota,37620,720.9
+2000,All Causes,Minnesota,37690,760.7
+2001,All Causes,Minnesota,37735,748.2
+2002,All Causes,South Carolina,37736,964.3
+2009,All Causes,Minnesota,37851,652.1
+2003,All Causes,South Carolina,38112,952.7
+2013,All Causes,Oklahoma,38384,910.7
+2008,All Causes,Minnesota,38499,674
+2002,All Causes,Minnesota,38510,751.3
+1999,All Causes,Minnesota,38537,784.5
+2004,All Causes,Kentucky,38646,935.3
+2005,All Causes,South Carolina,38707,920.9
+2006,All Causes,South Carolina,38761,886.8
+2010,All Causes,Minnesota,38972,661.5
+1999,All Causes,Kentucky,39321,1004.1
+2007,All Causes,South Carolina,39439,873.9
+2000,All Causes,Kentucky,39504,998.6
+2011,All Causes,Minnesota,39820,659.2
+2001,All Causes,Kentucky,39861,997.1
+2007,All Causes,Louisiana,39966,937.5
+2012,All Causes,Minnesota,40016,649.5
+2006,All Causes,Louisiana,40045,960.5
+1999,All Causes,Arizona,40050,818.4
+2007,All Causes,Kentucky,40090,915.3
+2006,All Causes,Kentucky,40102,932.3
+2005,All Causes,Kentucky,40223,954.7
+2003,All Causes,Kentucky,40241,986.4
+2009,All Causes,Louisiana,40282,907.8
+2008,All Causes,South Carolina,40289,867
+2009,All Causes,South Carolina,40449,846.9
+2000,All Causes,Arizona,40500,810.4
+2010,All Causes,Louisiana,40667,903.8
+2002,All Causes,Kentucky,40697,1009.7
+2011,All Causes,Louisiana,40890,886.6
+2013,All Causes,Minnesota,40987,651
+2001,All Causes,Arizona,41058,795.9
+2000,All Causes,Louisiana,41138,1006.3
+2008,All Causes,Louisiana,41220,946
+1999,All Causes,Louisiana,41238,1021.6
+2008,All Causes,Kentucky,41329,926.7
+2009,All Causes,Kentucky,41380,912.5
+2010,All Causes,South Carolina,41614,854.8
+2001,All Causes,Louisiana,41757,1013.1
+2010,All Causes,Kentucky,41983,915
+2002,All Causes,Louisiana,41984,1008.5
+2011,All Causes,South Carolina,42072,839.5
+2004,All Causes,Louisiana,42215,989.4
+2012,All Causes,Louisiana,42320,898.6
+2011,All Causes,Kentucky,42626,910.3
+2003,All Causes,Louisiana,42719,1013.7
+2002,All Causes,Arizona,42816,811.2
+1999,All Causes,Maryland,43089,907
+2004,All Causes,Arizona,43198,771.1
+2012,All Causes,South Carolina,43198,835.2
+2004,All Causes,Maryland,43232,823.7
+2013,All Causes,Louisiana,43270,897.7
+2010,All Causes,Maryland,43325,728.6
+2003,All Causes,Arizona,43392,798.4
+2006,All Causes,Maryland,43582,795.9
+2012,All Causes,Kentucky,43664,916.3
+2011,All Causes,Maryland,43745,715.8
+2000,All Causes,Maryland,43753,908.9
+2007,All Causes,Maryland,43757,784
+2013,All Causes,Kentucky,43759,899.9
+2001,All Causes,Maryland,43839,888
+2009,All Causes,Maryland,43843,750.2
+1999,All Causes,Washington,43865,815.1
+2005,All Causes,Maryland,43892,818.1
+2008,All Causes,Maryland,43892,769.6
+2000,All Causes,Washington,43941,804.6
+2002,All Causes,Maryland,43970,872.3
+2005,All Causes,Louisiana,44355,1023.7
+2012,All Causes,Maryland,44477,709.1
+2003,All Causes,Maryland,44499,864.5
+2013,All Causes,South Carolina,44582,837.8
+2001,All Causes,Washington,44642,799.4
+2004,All Causes,Washington,44770,751.9
+1999,All Causes,Alabama,44806,1009.3
+2000,All Causes,Alabama,45062,1004.8
+2001,All Causes,Alabama,45316,1002.1
+2002,All Causes,Washington,45338,795
+2007,All Causes,Arizona,45554,731
+2004,All Causes,Wisconsin,45600,760
+2013,All Causes,Maryland,45689,710.4
+2009,All Causes,Wisconsin,45697,703
+2009,All Causes,Arizona,45816,693.8
+2008,All Causes,Arizona,45823,714.5
+2005,All Causes,Arizona,45827,786.7
+2003,All Causes,Washington,45920,789.2
+2002,All Causes,Alabama,46069,1013.4
+2006,All Causes,Washington,46120,731.2
+2004,All Causes,Alabama,46121,998.3
+2006,All Causes,Wisconsin,46153,745.3
+2003,All Causes,Wisconsin,46177,780.1
+2005,All Causes,Washington,46203,757.6
+2007,All Causes,Wisconsin,46241,734.2
+2006,All Causes,Arizona,46365,767.1
+2000,All Causes,Wisconsin,46461,820.1
+2001,All Causes,Wisconsin,46628,812.5
+1999,All Causes,Wisconsin,46672,831.5
+2007,All Causes,Alabama,46696,957.2
+2005,All Causes,Wisconsin,46709,765.9
+2003,All Causes,Alabama,46716,1020.2
+2010,All Causes,Arizona,46762,693.1
+2008,All Causes,Wisconsin,46815,730.3
+2006,All Causes,Alabama,46977,979.5
+2002,All Causes,Wisconsin,46981,806.1
+2005,All Causes,Alabama,47090,1001.3
+2010,All Causes,Wisconsin,47308,719
+2007,All Causes,Washington,47323,731.9
+2009,All Causes,Alabama,47470,940.2
+2008,All Causes,Alabama,47707,959.7
+2010,All Causes,Alabama,48038,939.7
+2010,All Causes,Washington,48146,692.3
+2009,All Causes,Washington,48270,708.4
+2011,All Causes,Arizona,48381,688.9
+2012,All Causes,Wisconsin,48384,707.8
+2011,All Causes,Wisconsin,48410,721.1
+2008,All Causes,Washington,48627,734.3
+2011,All Causes,Alabama,48681,933.6
+2012,All Causes,Alabama,49301,926.7
+2012,All Causes,Arizona,49549,682.9
+2011,All Causes,Washington,49691,690.4
+2013,All Causes,Wisconsin,50026,720.1
+2012,All Causes,Washington,50105,681.5
+2013,All Causes,Alabama,50189,925.2
+2013,All Causes,Arizona,50534,674.2
+2013,All Causes,Washington,51264,679.3
+2009,All Causes,Massachusetts,52308,681.4
+2010,All Causes,Massachusetts,52583,675
+2007,All Causes,Massachusetts,52917,709.8
+2012,All Causes,Massachusetts,53177,657.9
+2006,All Causes,Massachusetts,53450,726.8
+2008,All Causes,Massachusetts,53518,706.1
+2011,All Causes,Massachusetts,53710,676.3
+1999,All Causes,Tennessee,53765,980.4
+2005,All Causes,Massachusetts,53874,741.6
+2004,All Causes,Missouri,53950,872.7
+2007,All Causes,Indiana,54000,817.1
+2007,All Causes,Missouri,54166,837.7
+2004,All Causes,Indiana,54211,864.1
+2009,All Causes,Missouri,54263,815.3
+2004,All Causes,Massachusetts,54511,758.3
+2013,All Causes,Massachusetts,54567,663.5
+2005,All Causes,Missouri,54656,873.3
+2006,All Causes,Missouri,54681,859
+2000,All Causes,Missouri,54865,920.8
+2001,All Causes,Missouri,54982,913.4
+2001,All Causes,Tennessee,55151,979.5
+2001,All Causes,Indiana,55198,912.7
+2000,All Causes,Tennessee,55246,996.9
+2010,All Causes,Missouri,55281,819.5
+1999,All Causes,Indiana,55303,934.7
+1999,All Causes,Virginia,55320,889.6
+2002,All Causes,Indiana,55396,906.1
+2000,All Causes,Indiana,55469,929.6
+2003,All Causes,Missouri,55582,907
+2006,All Causes,Indiana,55622,856.8
+2005,All Causes,Indiana,55675,874.3
+2004,All Causes,Tennessee,55829,952.8
+1999,All Causes,Massachusetts,55840,814.1
+2011,All Causes,Missouri,55848,812
+1999,All Causes,Missouri,55931,945
+2002,All Causes,Missouri,55940,922.3
+2003,All Causes,Indiana,55968,902.2
+2009,All Causes,Indiana,55973,820.6
+2012,All Causes,Missouri,56094,803
+2001,All Causes,Virginia,56280,869.9
+2000,All Causes,Virginia,56282,890.4
+2003,All Causes,Massachusetts,56291,788.7
+2004,All Causes,Virginia,56550,820.5
+2008,All Causes,Missouri,56578,861.3
+2002,All Causes,Tennessee,56606,995.3
+2000,All Causes,Massachusetts,56681,817.9
+2010,All Causes,Indiana,56743,820.6
+2008,All Causes,Indiana,56752,843.8
+2001,All Causes,Massachusetts,56754,811.4
+2006,All Causes,Tennessee,56838,921.2
+2002,All Causes,Massachusetts,56928,806
+2007,All Causes,Tennessee,57087,905.4
+2002,All Causes,Virginia,57196,865.9
+2005,All Causes,Tennessee,57260,956.6
+2003,All Causes,Tennessee,57313,994
+2013,All Causes,Missouri,57444,807.7
+2006,All Causes,Virginia,57690,795
+2005,All Causes,Virginia,57855,817.4
+2011,All Causes,Indiana,58202,825.1
+2007,All Causes,Virginia,58225,784
+2003,All Causes,Virginia,58282,863.3
+2009,All Causes,Tennessee,58288,885.6
+2009,All Causes,Virginia,58653,750.8
+2008,All Causes,Tennessee,58820,913.4
+2010,All Causes,Virginia,59032,741.6
+2008,All Causes,Virginia,59100,776.7
+2012,All Causes,Indiana,59332,827.5
+2010,All Causes,Tennessee,59578,890.8
+2011,All Causes,Tennessee,60541,879
+2013,All Causes,Indiana,60716,832.2
+2011,All Causes,Virginia,60804,741.6
+2012,All Causes,Virginia,61564,730.2
+2012,All Causes,Tennessee,61956,880.6
+1999,All Causes,Georgia,62028,964.9
+2013,All Causes,Virginia,62716,724.8
+2013,All Causes,Tennessee,63406,881.1
+2000,All Causes,Georgia,63870,981
+2001,All Causes,Georgia,64485,966.4
+2002,All Causes,Georgia,65449,961.6
+2004,All Causes,Georgia,65818,926.4
+2003,All Causes,Georgia,66478,956.8
+2005,All Causes,Georgia,66736,910.5
+2006,All Causes,Georgia,67808,890.2
+2009,All Causes,New Jersey,68277,689.3
+2007,All Causes,Georgia,68331,872
+2010,All Causes,New Jersey,69495,691.1
+1999,All Causes,North Carolina,69600,933
+2008,All Causes,Georgia,69640,864.1
+2007,All Causes,New Jersey,69662,726.9
+2009,All Causes,Georgia,69712,842.3
+2008,All Causes,New Jersey,70026,718.3
+2006,All Causes,New Jersey,70356,744.9
+2012,All Causes,New Jersey,70534,677.6
+2011,All Causes,New Jersey,70558,690.6
+2001,All Causes,North Carolina,70934,917.1
+2011,All Causes,Georgia,71248,815.7
+2010,All Causes,Georgia,71263,845.4
+2004,All Causes,New Jersey,71371,775.8
+2013,All Causes,New Jersey,71403,676.4
+2000,All Causes,North Carolina,71935,952.7
+2005,All Causes,New Jersey,71963,772.4
+2002,All Causes,North Carolina,72027,912.6
+2004,All Causes,North Carolina,72384,876.1
+2012,All Causes,Georgia,72847,808.6
+2003,All Causes,North Carolina,73459,909
+2003,All Causes,New Jersey,73689,807.8
+1999,All Causes,New Jersey,73981,853.7
+2002,All Causes,New Jersey,74009,821.7
+2005,All Causes,North Carolina,74638,881.3
+2001,All Causes,New Jersey,74710,840.3
+2006,All Causes,North Carolina,74716,849.3
+2000,All Causes,New Jersey,74800,852.6
+2013,All Causes,Georgia,75088,806.2
+2007,All Causes,North Carolina,76046,838.5
+2009,All Causes,North Carolina,77117,804.3
+2008,All Causes,North Carolina,77283,828.1
+2010,All Causes,North Carolina,78773,804.9
+2011,All Causes,North Carolina,79882,790.9
+2012,All Causes,North Carolina,81925,786.4
+2013,All Causes,North Carolina,83329,777.6
+2004,All Causes,Michigan,85169,834.1
+2006,All Causes,Michigan,86042,816
+2001,All Causes,Michigan,86424,884
+2009,All Causes,Michigan,86455,783.1
+2007,All Causes,Michigan,86721,808.1
+2003,All Causes,Michigan,86728,860.5
+2005,All Causes,Michigan,86867,838.6
+2000,All Causes,Michigan,86953,904.2
+1999,All Causes,Michigan,87232,916.4
+2002,All Causes,Michigan,87795,885.7
+2010,All Causes,Michigan,88021,786.2
+2008,All Causes,Michigan,88445,812
+2011,All Causes,Michigan,89508,784.2
+2012,All Causes,Michigan,89901,774.2
+2013,All Causes,Michigan,92408,782.3
+2010,All Causes,Illinois,99931,736.9
+2009,All Causes,Illinois,100056,746.9
+2007,All Causes,Illinois,100503,770.3
+2011,All Causes,Illinois,101906,737.4
+2006,All Causes,Illinois,102171,794.4
+2012,All Causes,Illinois,102433,728.7
+2004,All Causes,Illinois,102670,816.8
+2013,All Causes,Illinois,103401,724
+2008,All Causes,Illinois,103471,782
+2005,All Causes,Illinois,103974,817.5
+2003,All Causes,Illinois,105325,846.6
+2001,All Causes,Illinois,105430,863.5
+2004,All Causes,Ohio,106288,867.1
+2007,All Causes,Ohio,106534,831.1
+2000,All Causes,Illinois,106634,883
+2002,All Causes,Illinois,106667,866.7
+2006,All Causes,Ohio,106825,846.6
+2009,All Causes,Ohio,107156,814.5
+2001,All Causes,Ohio,108027,912.4
+2000,All Causes,Ohio,108125,923.5
+1999,All Causes,Illinois,108436,905.1
+1999,All Causes,Ohio,108517,934
+2010,All Causes,Ohio,108711,815.7
+2005,All Causes,Ohio,109031,879.1
+2003,All Causes,Ohio,109110,898.5
+2002,All Causes,Ohio,109766,916.7
+2008,All Causes,Ohio,109767,844.3
+2011,All Causes,Ohio,111427,821.8
+2012,All Causes,Ohio,112498,817.9
+2013,All Causes,Ohio,113258,811.2
+2010,All Causes,Pennsylvania,124596,765.9
+2009,All Causes,Pennsylvania,124780,775.3
+2007,All Causes,Pennsylvania,125104,793.2
+2006,All Causes,Pennsylvania,125539,808.4
+2012,All Causes,Pennsylvania,126981,759.2
+2008,All Causes,Pennsylvania,127462,799.1
+2004,All Causes,Pennsylvania,127640,841.3
+2011,All Causes,Pennsylvania,128237,776
+2013,All Causes,Pennsylvania,129123,761.3
+2005,All Causes,Pennsylvania,129532,844.4
+2001,All Causes,Pennsylvania,129729,878.5
+2003,All Causes,Pennsylvania,129769,860.8
+2002,All Causes,Pennsylvania,130223,874.1
+1999,All Causes,Pennsylvania,130283,896.4
+2000,All Causes,Pennsylvania,130813,891.9
+2010,All Causes,New York,146432,665.5
+2009,All Causes,New York,146475,674.6
+1999,All Causes,Texas,146858,886.6
+2007,All Causes,New York,147680,698.9
+2008,All Causes,New York,148698,693.7
+2006,All Causes,New York,148806,713.7
+2012,All Causes,New York,148991,652.1
+2011,All Causes,New York,149174,665.4
+2000,All Causes,Texas,149939,891
+2013,All Causes,New York,150919,649.3
+2005,All Causes,New York,152427,738
+2004,All Causes,New York,152681,748.4
+2001,All Causes,Texas,152779,888.9
+2004,All Causes,Texas,152870,835.9
+2003,All Causes,Texas,154870,865.1
+2002,All Causes,Texas,155524,888.4
+2003,All Causes,New York,155877,771.1
+2005,All Causes,Texas,156457,832.1
+2006,All Causes,Texas,157150,807.7
+2002,All Causes,New York,158118,791.4
+2000,All Causes,New York,158203,813.6
+2001,All Causes,New York,159240,806.6
+1999,All Causes,New York,159927,833.4
+2007,All Causes,Texas,160548,803.1
+1999,All Causes,Florida,163224,812.8
+2009,All Causes,Texas,163249,772.1
+2000,All Causes,Florida,164395,807.8
+2008,All Causes,Texas,164914,803.6
+2010,All Causes,Texas,166527,772.3
+2001,All Causes,Florida,167269,806.1
+2002,All Causes,Florida,167814,796.2
+2007,All Causes,Florida,168096,723.3
+2011,All Causes,Texas,168640,751.6
+2003,All Causes,Florida,168657,786.7
+2004,All Causes,Florida,169008,771.6
+2009,All Causes,Florida,169924,700.1
+2006,All Causes,Florida,170066,745.6
+2008,All Causes,Florida,170703,718.1
+2005,All Causes,Florida,170791,761.9
+2010,All Causes,Florida,173791,701.1
+2011,All Causes,Florida,173976,677.1
+2012,All Causes,Texas,174187,753.3
+2012,All Causes,Florida,177291,669.9
+2013,All Causes,Texas,179183,751.6
+2013,All Causes,Florida,181112,663.4
+1999,All Causes,California,229380,802.3
+2000,All Causes,California,229551,787.9
+2004,All Causes,California,232525,734.3
+2009,All Causes,California,232736,655.5
+2007,All Causes,California,233720,691.7
+2010,All Causes,California,234012,646.7
+2001,All Causes,California,234044,783.2
+2002,All Causes,California,234565,770
+2008,All Causes,California,234766,677.9
+2005,All Causes,California,237037,730.7
+2006,All Causes,California,237126,718.2
+2003,All Causes,California,239371,768.4
+2011,All Causes,California,239942,641.3
+2012,All Causes,California,242554,630.4
+2013,All Causes,California,248359,630.1

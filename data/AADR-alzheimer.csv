@@ -1,0 +1,766 @@
+YEAR,CAUSE_NAME,region,DEATHS,AADR
+1999,Alzheimer's disease,Alabama,772,17.8
+1999,Alzheimer's disease,Alaska,24,11.93
+1999,Alzheimer's disease,Arizona,963,20.8
+1999,Alzheimer's disease,Arkansas,434,14.84
+1999,Alzheimer's disease,California,4532,16.59
+1999,Alzheimer's disease,Colorado,756,24.47
+1999,Alzheimer's disease,Connecticut,449,11.4
+1999,Alzheimer's disease,Delaware,107,15.04
+1999,Alzheimer's disease,District of Columbia,53,9.47
+1999,Alzheimer's disease,Florida,3059,14.25
+1999,Alzheimer's disease,Georgia,1080,18.79
+1999,Alzheimer's disease,Hawaii,109,9.43
+1999,Alzheimer's disease,Idaho,243,21.37
+1999,Alzheimer's disease,Illinois,1908,15.86
+1999,Alzheimer's disease,Indiana,1106,18.89
+1999,Alzheimer's disease,Iowa,706,18.18
+1999,Alzheimer's disease,Kansas,511,16.56
+1999,Alzheimer's disease,Kentucky,728,19.28
+1999,Alzheimer's disease,Louisiana,683,17.91
+1999,Alzheimer's disease,Maine,429,29.63
+1999,Alzheimer's disease,Maryland,681,15.41
+1999,Alzheimer's disease,Massachusetts,1182,16.51
+1999,Alzheimer's disease,Michigan,1431,15.42
+1999,Alzheimer's disease,Minnesota,1083,21.11
+1999,Alzheimer's disease,Mississippi,356,13.33
+1999,Alzheimer's disease,Missouri,914,14.99
+1999,Alzheimer's disease,Montana,205,21.35
+1999,Alzheimer's disease,Nebraska,331,16.33
+1999,Alzheimer's disease,Nevada,174,13.61
+1999,Alzheimer's disease,New Hampshire,266,23.17
+1999,Alzheimer's disease,New Jersey,1041,11.99
+1999,Alzheimer's disease,New Mexico,248,16.43
+1999,Alzheimer's disease,New York,1357,7.01
+1999,Alzheimer's disease,North Carolina,1456,20.81
+1999,Alzheimer's disease,North Dakota,155,18.11
+1999,Alzheimer's disease,Ohio,2099,18.21
+1999,Alzheimer's disease,Oklahoma,553,15.42
+1999,Alzheimer's disease,Oregon,866,24.13
+1999,Alzheimer's disease,Pennsylvania,2192,14.42
+1999,Alzheimer's disease,Rhode Island,219,16.96
+1999,Alzheimer's disease,South Carolina,690,20.46
+1999,Alzheimer's disease,South Dakota,155,16.31
+1999,Alzheimer's disease,Tennessee,944,17.89
+1999,Alzheimer's disease,Texas,2833,18.48
+1999,Alzheimer's disease,Utah,245,17.27
+1999,Alzheimer's disease,Vermont,127,20.54
+1999,Alzheimer's disease,Virginia,917,15.87
+1999,Alzheimer's disease,Washington,1577,29.78
+1999,Alzheimer's disease,West Virginia,314,15.01
+1999,Alzheimer's disease,Wisconsin,1170,19.94
+1999,Alzheimer's disease,Wyoming,103,23.91
+2000,Alzheimer's disease,Alabama,895,20.39
+2000,Alzheimer's disease,Alaska,47,21.49
+2000,Alzheimer's disease,Arizona,1045,22
+2000,Alzheimer's disease,Arkansas,430,14.57
+2000,Alzheimer's disease,California,4419,15.82
+2000,Alzheimer's disease,Colorado,712,22.6
+2000,Alzheimer's disease,Connecticut,526,13.13
+2000,Alzheimer's disease,Delaware,110,15.11
+2000,Alzheimer's disease,District of Columbia,75,13.11
+2000,Alzheimer's disease,Florida,3265,14.95
+2000,Alzheimer's disease,Georgia,1235,21.25
+2000,Alzheimer's disease,Hawaii,118,9.99
+2000,Alzheimer's disease,Idaho,262,22.55
+2000,Alzheimer's disease,Illinois,2154,17.69
+2000,Alzheimer's disease,Indiana,1209,20.41
+2000,Alzheimer's disease,Iowa,769,19.73
+2000,Alzheimer's disease,Kansas,630,20.22
+2000,Alzheimer's disease,Kentucky,845,22.11
+2000,Alzheimer's disease,Louisiana,811,20.9
+2000,Alzheimer's disease,Maine,466,31.61
+2000,Alzheimer's disease,Maryland,811,17.99
+2000,Alzheimer's disease,Massachusetts,1433,19.76
+2000,Alzheimer's disease,Michigan,1646,17.5
+2000,Alzheimer's disease,Minnesota,1154,22.23
+2000,Alzheimer's disease,Mississippi,443,16.45
+2000,Alzheimer's disease,Missouri,1096,17.8
+2000,Alzheimer's disease,Montana,219,22.41
+2000,Alzheimer's disease,Nebraska,353,17.4
+2000,Alzheimer's disease,Nevada,195,14.51
+2000,Alzheimer's disease,New Hampshire,273,23.39
+2000,Alzheimer's disease,New Jersey,1267,14.35
+2000,Alzheimer's disease,New Mexico,275,17.72
+2000,Alzheimer's disease,New York,1539,7.8
+2000,Alzheimer's disease,North Carolina,1725,24.29
+2000,Alzheimer's disease,North Dakota,209,24.04
+2000,Alzheimer's disease,Ohio,2295,19.65
+2000,Alzheimer's disease,Oklahoma,638,17.66
+2000,Alzheimer's disease,Oregon,910,25.01
+2000,Alzheimer's disease,Pennsylvania,2542,16.46
+2000,Alzheimer's disease,Rhode Island,242,18.35
+2000,Alzheimer's disease,South Carolina,874,25.13
+2000,Alzheimer's disease,South Dakota,179,18.54
+2000,Alzheimer's disease,Tennessee,1024,19.22
+2000,Alzheimer's disease,Texas,3184,20.48
+2000,Alzheimer's disease,Utah,342,23.58
+2000,Alzheimer's disease,Vermont,134,21.32
+2000,Alzheimer's disease,Virginia,1094,18.69
+2000,Alzheimer's disease,Washington,1799,33.36
+2000,Alzheimer's disease,West Virginia,361,17.18
+2000,Alzheimer's disease,Wisconsin,1177,19.89
+2000,Alzheimer's disease,Wyoming,102,23.11
+2001,Alzheimer's disease,Alabama,1103,25.07
+2001,Alzheimer's disease,Alaska,44,18.94
+2001,Alzheimer's disease,Arizona,1108,22.65
+2001,Alzheimer's disease,Arkansas,452,15.29
+2001,Alzheimer's disease,California,4935,17.23
+2001,Alzheimer's disease,Colorado,852,26.35
+2001,Alzheimer's disease,Connecticut,573,14.02
+2001,Alzheimer's disease,Delaware,135,17.95
+2001,Alzheimer's disease,District of Columbia,99,17.48
+2001,Alzheimer's disease,Florida,3643,16.43
+2001,Alzheimer's disease,Georgia,1419,24.05
+2001,Alzheimer's disease,Hawaii,122,9.79
+2001,Alzheimer's disease,Idaho,294,24.68
+2001,Alzheimer's disease,Illinois,2163,17.54
+2001,Alzheimer's disease,Indiana,1231,20.47
+2001,Alzheimer's disease,Iowa,863,21.83
+2001,Alzheimer's disease,Kansas,642,20.48
+2001,Alzheimer's disease,Kentucky,966,25.09
+2001,Alzheimer's disease,Louisiana,957,24.58
+2001,Alzheimer's disease,Maine,471,31.31
+2001,Alzheimer's disease,Maryland,948,20.54
+2001,Alzheimer's disease,Massachusetts,1533,20.88
+2001,Alzheimer's disease,Michigan,1803,18.79
+2001,Alzheimer's disease,Minnesota,1173,22.14
+2001,Alzheimer's disease,Mississippi,449,16.81
+2001,Alzheimer's disease,Missouri,1106,17.77
+2001,Alzheimer's disease,Montana,249,24.89
+2001,Alzheimer's disease,Nebraska,430,20.95
+2001,Alzheimer's disease,Nevada,211,14.91
+2001,Alzheimer's disease,New Hampshire,305,25.55
+2001,Alzheimer's disease,New Jersey,1376,15.32
+2001,Alzheimer's disease,New Mexico,297,18.57
+2001,Alzheimer's disease,New York,1705,8.48
+2001,Alzheimer's disease,North Carolina,1786,24.6
+2001,Alzheimer's disease,North Dakota,224,25.51
+2001,Alzheimer's disease,Ohio,2367,19.97
+2001,Alzheimer's disease,Oklahoma,682,18.97
+2001,Alzheimer's disease,Oregon,1030,27.6
+2001,Alzheimer's disease,Pennsylvania,2753,17.62
+2001,Alzheimer's disease,Rhode Island,251,18.84
+2001,Alzheimer's disease,South Carolina,881,24.87
+2001,Alzheimer's disease,South Dakota,156,15.96
+2001,Alzheimer's disease,Tennessee,1148,21.24
+2001,Alzheimer's disease,Texas,3439,21.87
+2001,Alzheimer's disease,Utah,314,21.03
+2001,Alzheimer's disease,Vermont,149,23.25
+2001,Alzheimer's disease,Virginia,1184,19.8
+2001,Alzheimer's disease,Washington,2050,37.12
+2001,Alzheimer's disease,West Virginia,398,18.97
+2001,Alzheimer's disease,Wisconsin,1269,21.1
+2001,Alzheimer's disease,Wyoming,114,25.44
+2002,Alzheimer's disease,Alabama,1189,27.04
+2002,Alzheimer's disease,Alaska,61,25.77
+2002,Alzheimer's disease,Arizona,1433,28.7
+2002,Alzheimer's disease,Arkansas,551,18.62
+2002,Alzheimer's disease,California,5421,18.58
+2002,Alzheimer's disease,Colorado,954,28.96
+2002,Alzheimer's disease,Connecticut,570,13.6
+2002,Alzheimer's disease,Delaware,128,16.69
+2002,Alzheimer's disease,District of Columbia,107,18.98
+2002,Alzheimer's disease,Florida,4052,18.07
+2002,Alzheimer's disease,Georgia,1525,25.47
+2002,Alzheimer's disease,Hawaii,141,10.88
+2002,Alzheimer's disease,Idaho,318,26.07
+2002,Alzheimer's disease,Illinois,2398,19.29
+2002,Alzheimer's disease,Indiana,1475,24.27
+2002,Alzheimer's disease,Iowa,899,22.59
+2002,Alzheimer's disease,Kansas,755,24.05
+2002,Alzheimer's disease,Kentucky,1013,26.31
+2002,Alzheimer's disease,Louisiana,1111,28.49
+2002,Alzheimer's disease,Maine,513,33.63
+2002,Alzheimer's disease,Maryland,866,18.36
+2002,Alzheimer's disease,Massachusetts,1570,21.18
+2002,Alzheimer's disease,Michigan,1958,20.04
+2002,Alzheimer's disease,Minnesota,1192,22.27
+2002,Alzheimer's disease,Mississippi,574,21.64
+2002,Alzheimer's disease,Missouri,1187,19.03
+2002,Alzheimer's disease,Montana,285,27.94
+2002,Alzheimer's disease,Nebraska,460,22.26
+2002,Alzheimer's disease,Nevada,253,17.27
+2002,Alzheimer's disease,New Hampshire,311,25.58
+2002,Alzheimer's disease,New Jersey,1522,16.72
+2002,Alzheimer's disease,New Mexico,325,19.88
+2002,Alzheimer's disease,New York,1803,8.85
+2002,Alzheimer's disease,North Carolina,1962,26.61
+2002,Alzheimer's disease,North Dakota,294,33.65
+2002,Alzheimer's disease,Ohio,2599,21.66
+2002,Alzheimer's disease,Oklahoma,754,21.07
+2002,Alzheimer's disease,Oregon,1124,29.64
+2002,Alzheimer's disease,Pennsylvania,2823,17.83
+2002,Alzheimer's disease,Rhode Island,264,19.49
+2002,Alzheimer's disease,South Carolina,967,27.1
+2002,Alzheimer's disease,South Dakota,167,16.96
+2002,Alzheimer's disease,Tennessee,1299,23.98
+2002,Alzheimer's disease,Texas,3793,23.88
+2002,Alzheimer's disease,Utah,303,19.9
+2002,Alzheimer's disease,Vermont,163,25.2
+2002,Alzheimer's disease,Virginia,1368,22.36
+2002,Alzheimer's disease,Washington,2195,38.99
+2002,Alzheimer's disease,West Virginia,405,19.2
+2002,Alzheimer's disease,Wisconsin,1344,22.02
+2002,Alzheimer's disease,Wyoming,122,26.98
+2003,Alzheimer's disease,Alabama,1268,28.83
+2003,Alzheimer's disease,Alaska,56,22.91
+2003,Alzheimer's disease,Arizona,1703,32.89
+2003,Alzheimer's disease,Arkansas,552,18.62
+2003,Alzheimer's disease,California,6585,22.02
+2003,Alzheimer's disease,Colorado,899,26.54
+2003,Alzheimer's disease,Connecticut,612,14.19
+2003,Alzheimer's disease,Delaware,147,18.6
+2003,Alzheimer's disease,District of Columbia,95,17.04
+2003,Alzheimer's disease,Florida,4316,18.91
+2003,Alzheimer's disease,Georgia,1630,26.87
+2003,Alzheimer's disease,Hawaii,161,11.94
+2003,Alzheimer's disease,Idaho,355,28.29
+2003,Alzheimer's disease,Illinois,2626,20.86
+2003,Alzheimer's disease,Indiana,1515,24.57
+2003,Alzheimer's disease,Iowa,887,22.09
+2003,Alzheimer's disease,Kansas,781,24.74
+2003,Alzheimer's disease,Kentucky,1072,27.67
+2003,Alzheimer's disease,Louisiana,1184,30
+2003,Alzheimer's disease,Maine,467,30.2
+2003,Alzheimer's disease,Maryland,865,17.8
+2003,Alzheimer's disease,Massachusetts,1609,21.28
+2003,Alzheimer's disease,Michigan,2133,21.37
+2003,Alzheimer's disease,Minnesota,1243,22.71
+2003,Alzheimer's disease,Mississippi,583,22
+2003,Alzheimer's disease,Missouri,1293,20.6
+2003,Alzheimer's disease,Montana,235,22.72
+2003,Alzheimer's disease,Nebraska,461,22.21
+2003,Alzheimer's disease,Nevada,309,19.64
+2003,Alzheimer's disease,New Hampshire,286,23.02
+2003,Alzheimer's disease,New Jersey,1636,17.65
+2003,Alzheimer's disease,New Mexico,360,21.55
+2003,Alzheimer's disease,New York,1866,9.02
+2003,Alzheimer's disease,North Carolina,2145,28.31
+2003,Alzheimer's disease,North Dakota,336,37.5
+2003,Alzheimer's disease,Ohio,2902,23.74
+2003,Alzheimer's disease,Oklahoma,794,22.12
+2003,Alzheimer's disease,Oregon,1157,29.75
+2003,Alzheimer's disease,Pennsylvania,2952,18.32
+2003,Alzheimer's disease,Rhode Island,303,21.96
+2003,Alzheimer's disease,South Carolina,1051,28.75
+2003,Alzheimer's disease,South Dakota,174,17.46
+2003,Alzheimer's disease,Tennessee,1466,26.9
+2003,Alzheimer's disease,Texas,4015,24.89
+2003,Alzheimer's disease,Utah,332,21.35
+2003,Alzheimer's disease,Vermont,171,25.91
+2003,Alzheimer's disease,Virginia,1466,23.44
+2003,Alzheimer's disease,Washington,2380,41.37
+2003,Alzheimer's disease,West Virginia,470,22.22
+2003,Alzheimer's disease,Wisconsin,1411,22.64
+2003,Alzheimer's disease,Wyoming,142,30.9
+2004,Alzheimer's disease,Alabama,1385,31.42
+2004,Alzheimer's disease,Alaska,48,17.99
+2004,Alzheimer's disease,Arizona,1675,31.57
+2004,Alzheimer's disease,Arkansas,622,20.88
+2004,Alzheimer's disease,California,6964,22.94
+2004,Alzheimer's disease,Colorado,912,26.1
+2004,Alzheimer's disease,Connecticut,684,15.73
+2004,Alzheimer's disease,Delaware,155,18.97
+2004,Alzheimer's disease,District of Columbia,119,21.24
+2004,Alzheimer's disease,Florida,4307,18.55
+2004,Alzheimer's disease,Georgia,1710,27.76
+2004,Alzheimer's disease,Hawaii,171,12.19
+2004,Alzheimer's disease,Idaho,343,26.74
+2004,Alzheimer's disease,Illinois,2595,20.41
+2004,Alzheimer's disease,Indiana,1552,24.91
+2004,Alzheimer's disease,Iowa,968,23.96
+2004,Alzheimer's disease,Kansas,769,24.13
+2004,Alzheimer's disease,Kentucky,982,25.1
+2004,Alzheimer's disease,Louisiana,1267,31.95
+2004,Alzheimer's disease,Maine,512,32.7
+2004,Alzheimer's disease,Maryland,905,18.28
+2004,Alzheimer's disease,Massachusetts,1673,21.96
+2004,Alzheimer's disease,Michigan,2232,22.02
+2004,Alzheimer's disease,Minnesota,1231,22.29
+2004,Alzheimer's disease,Mississippi,630,23.65
+2004,Alzheimer's disease,Missouri,1381,21.87
+2004,Alzheimer's disease,Montana,228,21.49
+2004,Alzheimer's disease,Nebraska,459,22.03
+2004,Alzheimer's disease,Nevada,292,18.21
+2004,Alzheimer's disease,New Hampshire,331,25.85
+2004,Alzheimer's disease,New Jersey,1711,18.28
+2004,Alzheimer's disease,New Mexico,328,19.34
+2004,Alzheimer's disease,New York,1989,9.53
+2004,Alzheimer's disease,North Carolina,2188,28.35
+2004,Alzheimer's disease,North Dakota,313,34.43
+2004,Alzheimer's disease,Ohio,2927,23.69
+2004,Alzheimer's disease,Oklahoma,867,24.17
+2004,Alzheimer's disease,Oregon,1262,31.8
+2004,Alzheimer's disease,Pennsylvania,3277,20.18
+2004,Alzheimer's disease,Rhode Island,283,20.14
+2004,Alzheimer's disease,South Carolina,1245,33.3
+2004,Alzheimer's disease,South Dakota,243,23.85
+2004,Alzheimer's disease,Tennessee,1615,29.26
+2004,Alzheimer's disease,Texas,4336,26.44
+2004,Alzheimer's disease,Utah,376,23.63
+2004,Alzheimer's disease,Vermont,173,25.88
+2004,Alzheimer's disease,Virginia,1480,23.16
+2004,Alzheimer's disease,Washington,2233,37.9
+2004,Alzheimer's disease,West Virginia,493,23.26
+2004,Alzheimer's disease,Wisconsin,1419,22.45
+2004,Alzheimer's disease,Wyoming,105,22.42
+2005,Alzheimer's disease,Alabama,1501,33.44
+2005,Alzheimer's disease,Alaska,61,22.15
+2005,Alzheimer's disease,Arizona,1831,32.97
+2005,Alzheimer's disease,Arkansas,686,22.81
+2005,Alzheimer's disease,California,7706,24.56
+2005,Alzheimer's disease,Colorado,1064,29.52
+2005,Alzheimer's disease,Connecticut,777,17.4
+2005,Alzheimer's disease,Delaware,180,21.23
+2005,Alzheimer's disease,District of Columbia,112,19.73
+2005,Alzheimer's disease,Florida,4608,19.4
+2005,Alzheimer's disease,Georgia,1745,27.38
+2005,Alzheimer's disease,Hawaii,192,13.08
+2005,Alzheimer's disease,Idaho,407,30.71
+2005,Alzheimer's disease,Illinois,2827,21.86
+2005,Alzheimer's disease,Indiana,1651,26.02
+2005,Alzheimer's disease,Iowa,1082,26.53
+2005,Alzheimer's disease,Kansas,912,28.11
+2005,Alzheimer's disease,Kentucky,1147,28.66
+2005,Alzheimer's disease,Louisiana,1405,34.8
+2005,Alzheimer's disease,Maine,476,29.89
+2005,Alzheimer's disease,Maryland,958,18.71
+2005,Alzheimer's disease,Massachusetts,1638,21.12
+2005,Alzheimer's disease,Michigan,2359,22.86
+2005,Alzheimer's disease,Minnesota,1320,23.47
+2005,Alzheimer's disease,Mississippi,721,26.6
+2005,Alzheimer's disease,Missouri,1635,25.57
+2005,Alzheimer's disease,Montana,267,24.56
+2005,Alzheimer's disease,Nebraska,473,22.33
+2005,Alzheimer's disease,Nevada,310,18.14
+2005,Alzheimer's disease,New Hampshire,376,28.3
+2005,Alzheimer's disease,New Jersey,1815,19.03
+2005,Alzheimer's disease,New Mexico,327,18.7
+2005,Alzheimer's disease,New York,2065,9.69
+2005,Alzheimer's disease,North Carolina,2417,30.46
+2005,Alzheimer's disease,North Dakota,287,31.51
+2005,Alzheimer's disease,Ohio,3478,27.69
+2005,Alzheimer's disease,Oklahoma,1012,28.01
+2005,Alzheimer's disease,Oregon,1239,30.51
+2005,Alzheimer's disease,Pennsylvania,3429,20.72
+2005,Alzheimer's disease,Rhode Island,298,20.9
+2005,Alzheimer's disease,South Carolina,1316,34.28
+2005,Alzheimer's disease,South Dakota,290,28.3
+2005,Alzheimer's disease,Tennessee,2033,36.08
+2005,Alzheimer's disease,Texas,4629,27.36
+2005,Alzheimer's disease,Utah,368,22.38
+2005,Alzheimer's disease,Vermont,184,27.09
+2005,Alzheimer's disease,Virginia,1550,23.58
+2005,Alzheimer's disease,Washington,2309,38.24
+2005,Alzheimer's disease,West Virginia,504,23.6
+2005,Alzheimer's disease,Wisconsin,1512,23.48
+2005,Alzheimer's disease,Wyoming,110,22.84
+2006,Alzheimer's disease,Alabama,1497,32.72
+2006,Alzheimer's disease,Alaska,73,25.91
+2006,Alzheimer's disease,Arizona,2066,35.8
+2006,Alzheimer's disease,Arkansas,783,25.53
+2006,Alzheimer's disease,California,8146,25.32
+2006,Alzheimer's disease,Colorado,1058,28.05
+2006,Alzheimer's disease,Connecticut,728,15.97
+2006,Alzheimer's disease,Delaware,189,21.62
+2006,Alzheimer's disease,District of Columbia,117,20.71
+2006,Alzheimer's disease,Florida,4689,19.32
+2006,Alzheimer's disease,Georgia,1820,27.53
+2006,Alzheimer's disease,Hawaii,201,13.19
+2006,Alzheimer's disease,Idaho,400,29.01
+2006,Alzheimer's disease,Illinois,2794,21.31
+2006,Alzheimer's disease,Indiana,1696,26.12
+2006,Alzheimer's disease,Iowa,1121,27.01
+2006,Alzheimer's disease,Kansas,830,25.06
+2006,Alzheimer's disease,Kentucky,1153,28.12
+2006,Alzheimer's disease,Louisiana,1282,32.94
+2006,Alzheimer's disease,Maine,477,29.22
+2006,Alzheimer's disease,Maryland,915,17.27
+2006,Alzheimer's disease,Massachusetts,1560,19.79
+2006,Alzheimer's disease,Michigan,2331,21.95
+2006,Alzheimer's disease,Minnesota,1299,22.56
+2006,Alzheimer's disease,Mississippi,744,27.42
+2006,Alzheimer's disease,Missouri,1632,25.07
+2006,Alzheimer's disease,Montana,226,20.05
+2006,Alzheimer's disease,Nebraska,500,23.29
+2006,Alzheimer's disease,Nevada,281,15.94
+2006,Alzheimer's disease,New Hampshire,372,27.14
+2006,Alzheimer's disease,New Jersey,1649,16.87
+2006,Alzheimer's disease,New Mexico,348,19.26
+2006,Alzheimer's disease,New York,2021,9.36
+2006,Alzheimer's disease,North Carolina,2265,27.34
+2006,Alzheimer's disease,North Dakota,318,34.42
+2006,Alzheimer's disease,Ohio,3565,27.69
+2006,Alzheimer's disease,Oklahoma,928,25.17
+2006,Alzheimer's disease,Oregon,1231,29.37
+2006,Alzheimer's disease,Pennsylvania,3311,19.58
+2006,Alzheimer's disease,Rhode Island,297,20.44
+2006,Alzheimer's disease,South Carolina,1364,34.07
+2006,Alzheimer's disease,South Dakota,329,31
+2006,Alzheimer's disease,Tennessee,2115,36.34
+2006,Alzheimer's disease,Texas,4887,27.91
+2006,Alzheimer's disease,Utah,390,22.66
+2006,Alzheimer's disease,Vermont,186,26.52
+2006,Alzheimer's disease,Virginia,1574,23.18
+2006,Alzheimer's disease,Washington,2470,39.26
+2006,Alzheimer's disease,West Virginia,496,22.8
+2006,Alzheimer's disease,Wisconsin,1596,24.36
+2006,Alzheimer's disease,Wyoming,112,22.7
+2007,Alzheimer's disease,Alabama,1517,32.57
+2007,Alzheimer's disease,Alaska,65,22.44
+2007,Alzheimer's disease,Arizona,2051,34.23
+2007,Alzheimer's disease,Arkansas,824,26.49
+2007,Alzheimer's disease,California,8497,25.63
+2007,Alzheimer's disease,Colorado,1109,28.34
+2007,Alzheimer's disease,Connecticut,764,16.55
+2007,Alzheimer's disease,Delaware,201,22.14
+2007,Alzheimer's disease,District of Columbia,140,24
+2007,Alzheimer's disease,Florida,4644,18.69
+2007,Alzheimer's disease,Georgia,1849,27.17
+2007,Alzheimer's disease,Hawaii,247,15.71
+2007,Alzheimer's disease,Idaho,416,29.4
+2007,Alzheimer's disease,Illinois,2734,20.48
+2007,Alzheimer's disease,Indiana,1663,25.08
+2007,Alzheimer's disease,Iowa,1202,28.73
+2007,Alzheimer's disease,Kansas,860,25.83
+2007,Alzheimer's disease,Kentucky,1198,28.72
+2007,Alzheimer's disease,Louisiana,1324,33.28
+2007,Alzheimer's disease,Maine,470,28.14
+2007,Alzheimer's disease,Maryland,881,16.18
+2007,Alzheimer's disease,Massachusetts,1695,21.14
+2007,Alzheimer's disease,Michigan,2432,22.38
+2007,Alzheimer's disease,Minnesota,1179,19.91
+2007,Alzheimer's disease,Mississippi,797,28.94
+2007,Alzheimer's disease,Missouri,1681,25.45
+2007,Alzheimer's disease,Montana,260,22.64
+2007,Alzheimer's disease,Nebraska,512,23.5
+2007,Alzheimer's disease,Nevada,248,13.37
+2007,Alzheimer's disease,New Hampshire,418,29.53
+2007,Alzheimer's disease,New Jersey,1823,18.24
+2007,Alzheimer's disease,New Mexico,322,17.1
+2007,Alzheimer's disease,New York,1999,9.07
+2007,Alzheimer's disease,North Carolina,2460,28.68
+2007,Alzheimer's disease,North Dakota,395,42.04
+2007,Alzheimer's disease,Ohio,3671,27.88
+2007,Alzheimer's disease,Oklahoma,927,24.78
+2007,Alzheimer's disease,Oregon,1200,27.9
+2007,Alzheimer's disease,Pennsylvania,3505,20.34
+2007,Alzheimer's disease,Rhode Island,328,22.2
+2007,Alzheimer's disease,South Carolina,1396,33.57
+2007,Alzheimer's disease,South Dakota,346,32.07
+2007,Alzheimer's disease,Tennessee,2276,38.22
+2007,Alzheimer's disease,Texas,4814,26.77
+2007,Alzheimer's disease,Utah,393,22.13
+2007,Alzheimer's disease,Vermont,205,28.67
+2007,Alzheimer's disease,Virginia,1703,24.39
+2007,Alzheimer's disease,Washington,2689,41.8
+2007,Alzheimer's disease,West Virginia,534,24.15
+2007,Alzheimer's disease,Wisconsin,1658,24.72
+2007,Alzheimer's disease,Wyoming,110,21.95
+2008,Alzheimer's disease,Alabama,1518,32.08
+2008,Alzheimer's disease,Alaska,80,27.04
+2008,Alzheimer's disease,Arizona,2099,33.97
+2008,Alzheimer's disease,Arkansas,893,28.43
+2008,Alzheimer's disease,California,10098,29.54
+2008,Alzheimer's disease,Colorado,1353,33.38
+2008,Alzheimer's disease,Connecticut,839,17.81
+2008,Alzheimer's disease,Delaware,204,21.7
+2008,Alzheimer's disease,District of Columbia,132,22.51
+2008,Alzheimer's disease,Florida,4743,18.58
+2008,Alzheimer's disease,Georgia,1929,27.52
+2008,Alzheimer's disease,Hawaii,218,13.3
+2008,Alzheimer's disease,Idaho,393,27.19
+2008,Alzheimer's disease,Illinois,3192,23.56
+2008,Alzheimer's disease,Indiana,1971,29.28
+2008,Alzheimer's disease,Iowa,1332,31.5
+2008,Alzheimer's disease,Kansas,961,28.76
+2008,Alzheimer's disease,Kentucky,1370,32.25
+2008,Alzheimer's disease,Louisiana,1361,33.38
+2008,Alzheimer's disease,Maine,450,26.32
+2008,Alzheimer's disease,Maryland,1016,18.2
+2008,Alzheimer's disease,Massachusetts,1832,22.45
+2008,Alzheimer's disease,Michigan,2739,24.83
+2008,Alzheimer's disease,Minnesota,1344,22.33
+2008,Alzheimer's disease,Mississippi,916,32.88
+2008,Alzheimer's disease,Missouri,2010,29.96
+2008,Alzheimer's disease,Montana,294,25.44
+2008,Alzheimer's disease,Nebraska,610,27.26
+2008,Alzheimer's disease,Nevada,279,14.45
+2008,Alzheimer's disease,New Hampshire,393,27.38
+2008,Alzheimer's disease,New Jersey,1857,18.22
+2008,Alzheimer's disease,New Mexico,366,18.98
+2008,Alzheimer's disease,New York,2303,10.31
+2008,Alzheimer's disease,North Carolina,2624,29.78
+2008,Alzheimer's disease,North Dakota,312,33.08
+2008,Alzheimer's disease,Ohio,4285,31.96
+2008,Alzheimer's disease,Oklahoma,1061,28.02
+2008,Alzheimer's disease,Oregon,1302,29.83
+2008,Alzheimer's disease,Pennsylvania,3863,22.07
+2008,Alzheimer's disease,Rhode Island,359,24.42
+2008,Alzheimer's disease,South Carolina,1492,34.69
+2008,Alzheimer's disease,South Dakota,402,37.44
+2008,Alzheimer's disease,Tennessee,2423,39.92
+2008,Alzheimer's disease,Texas,5280,28.58
+2008,Alzheimer's disease,Utah,409,22.46
+2008,Alzheimer's disease,Vermont,218,29.78
+2008,Alzheimer's disease,Virginia,1763,24.55
+2008,Alzheimer's disease,Washington,3105,47.08
+2008,Alzheimer's disease,West Virginia,662,29.68
+2008,Alzheimer's disease,Wisconsin,1655,24.39
+2008,Alzheimer's disease,Wyoming,125,24.3
+2009,Alzheimer's disease,Alabama,1521,31.59
+2009,Alzheimer's disease,Alaska,67,21.47
+2009,Alzheimer's disease,Arizona,2097,32.7
+2009,Alzheimer's disease,Arkansas,885,27.81
+2009,Alzheimer's disease,California,9905,28.05
+2009,Alzheimer's disease,Colorado,1319,31.36
+2009,Alzheimer's disease,Connecticut,778,16.33
+2009,Alzheimer's disease,Delaware,163,16.94
+2009,Alzheimer's disease,District of Columbia,94,15.69
+2009,Alzheimer's disease,Florida,4617,17.62
+2009,Alzheimer's disease,Georgia,1865,25.87
+2009,Alzheimer's disease,Hawaii,253,14.81
+2009,Alzheimer's disease,Idaho,369,24.71
+2009,Alzheimer's disease,Illinois,2891,20.96
+2009,Alzheimer's disease,Indiana,1884,27.37
+2009,Alzheimer's disease,Iowa,1265,29.87
+2009,Alzheimer's disease,Kansas,802,23.91
+2009,Alzheimer's disease,Kentucky,1345,31.25
+2009,Alzheimer's disease,Louisiana,1336,32.25
+2009,Alzheimer's disease,Maine,466,26.93
+2009,Alzheimer's disease,Maryland,937,16.28
+2009,Alzheimer's disease,Massachusetts,1700,20.57
+2009,Alzheimer's disease,Michigan,2578,22.86
+2009,Alzheimer's disease,Minnesota,1358,22.2
+2009,Alzheimer's disease,Mississippi,900,32.12
+2009,Alzheimer's disease,Missouri,1728,25.54
+2009,Alzheimer's disease,Montana,256,21.6
+2009,Alzheimer's disease,Nebraska,573,25.57
+2009,Alzheimer's disease,Nevada,312,15.5
+2009,Alzheimer's disease,New Hampshire,367,25
+2009,Alzheimer's disease,New Jersey,1872,17.88
+2009,Alzheimer's disease,New Mexico,373,18.64
+2009,Alzheimer's disease,New York,2396,10.51
+2009,Alzheimer's disease,North Carolina,2646,29.18
+2009,Alzheimer's disease,North Dakota,366,39.01
+2009,Alzheimer's disease,Ohio,3879,28.47
+2009,Alzheimer's disease,Oklahoma,993,25.82
+2009,Alzheimer's disease,Oregon,1212,27.27
+2009,Alzheimer's disease,Pennsylvania,3547,20.01
+2009,Alzheimer's disease,Rhode Island,321,21.74
+2009,Alzheimer's disease,South Carolina,1478,33.35
+2009,Alzheimer's disease,South Dakota,403,36.81
+2009,Alzheimer's disease,Tennessee,2203,35.43
+2009,Alzheimer's disease,Texas,5064,26.6
+2009,Alzheimer's disease,Utah,371,19.55
+2009,Alzheimer's disease,Vermont,190,25.46
+2009,Alzheimer's disease,Virginia,1738,23.48
+2009,Alzheimer's disease,Washington,3010,44.57
+2009,Alzheimer's disease,West Virginia,563,24.9
+2009,Alzheimer's disease,Wisconsin,1611,23.33
+2009,Alzheimer's disease,Wyoming,136,25.81
+2010,Alzheimer's disease,Alabama,1523,31.2
+2010,Alzheimer's disease,Alaska,85,25.91
+2010,Alzheimer's disease,Arizona,2327,35.3
+2010,Alzheimer's disease,Arkansas,955,29.59
+2010,Alzheimer's disease,California,10856,30.1
+2010,Alzheimer's disease,Colorado,1334,31.1
+2010,Alzheimer's disease,Connecticut,820,17.09
+2010,Alzheimer's disease,Delaware,215,21.88
+2010,Alzheimer's disease,District of Columbia,114,18.67
+2010,Alzheimer's disease,Florida,4831,18.09
+2010,Alzheimer's disease,Georgia,2080,28.31
+2010,Alzheimer's disease,Hawaii,189,10.5
+2010,Alzheimer's disease,Idaho,410,26.84
+2010,Alzheimer's disease,Illinois,2927,20.92
+2010,Alzheimer's disease,Indiana,1940,27.8
+2010,Alzheimer's disease,Iowa,1411,32.92
+2010,Alzheimer's disease,Kansas,825,24.19
+2010,Alzheimer's disease,Kentucky,1464,33.46
+2010,Alzheimer's disease,Louisiana,1295,30.75
+2010,Alzheimer's disease,Maine,502,28.55
+2010,Alzheimer's disease,Maryland,986,16.79
+2010,Alzheimer's disease,Massachusetts,1773,21.23
+2010,Alzheimer's disease,Michigan,2736,23.98
+2010,Alzheimer's disease,Minnesota,1451,23.41
+2010,Alzheimer's disease,Mississippi,927,32.64
+2010,Alzheimer's disease,Missouri,1986,28.76
+2010,Alzheimer's disease,Montana,302,25.22
+2010,Alzheimer's disease,Nebraska,565,24.87
+2010,Alzheimer's disease,Nevada,296,14.17
+2010,Alzheimer's disease,New Hampshire,396,26.86
+2010,Alzheimer's disease,New Jersey,1878,17.66
+2010,Alzheimer's disease,New Mexico,343,16.84
+2010,Alzheimer's disease,New York,2616,11.32
+2010,Alzheimer's disease,North Carolina,2817,30.29
+2010,Alzheimer's disease,North Dakota,361,37.18
+2010,Alzheimer's disease,Ohio,4109,29.73
+2010,Alzheimer's disease,Oklahoma,1015,26.1
+2010,Alzheimer's disease,Oregon,1300,28.5
+2010,Alzheimer's disease,Pennsylvania,3591,20.03
+2010,Alzheimer's disease,Rhode Island,338,22.58
+2010,Alzheimer's disease,South Carolina,1570,34.71
+2010,Alzheimer's disease,South Dakota,398,35.85
+2010,Alzheimer's disease,Tennessee,2440,38.48
+2010,Alzheimer's disease,Texas,5209,26.76
+2010,Alzheimer's disease,Utah,375,19.34
+2010,Alzheimer's disease,Vermont,238,30.82
+2010,Alzheimer's disease,Virginia,1848,24.45
+2010,Alzheimer's disease,Washington,3025,43.57
+2010,Alzheimer's disease,West Virginia,594,26.01
+2010,Alzheimer's disease,Wisconsin,1762,25.27
+2010,Alzheimer's disease,Wyoming,146,27.22
+2011,Alzheimer's disease,Alabama,1486,29.73
+2011,Alzheimer's disease,Alaska,72,20.46
+2011,Alzheimer's disease,Arizona,2348,33.73
+2011,Alzheimer's disease,Arkansas,1002,30.41
+2011,Alzheimer's disease,California,11555,30.72
+2011,Alzheimer's disease,Colorado,1307,29.04
+2011,Alzheimer's disease,Connecticut,813,16.42
+2011,Alzheimer's disease,Delaware,203,20.02
+2011,Alzheimer's disease,District of Columbia,120,19.58
+2011,Alzheimer's disease,Florida,4507,15.98
+2011,Alzheimer's disease,Georgia,2218,28.94
+2011,Alzheimer's disease,Hawaii,197,10.42
+2011,Alzheimer's disease,Idaho,409,25.74
+2011,Alzheimer's disease,Illinois,2910,20.35
+2011,Alzheimer's disease,Indiana,2058,28.9
+2011,Alzheimer's disease,Iowa,1406,32.41
+2011,Alzheimer's disease,Kansas,795,22.61
+2011,Alzheimer's disease,Kentucky,1459,32.51
+2011,Alzheimer's disease,Louisiana,1406,32.43
+2011,Alzheimer's disease,Maine,481,26.84
+2011,Alzheimer's disease,Maryland,922,15.12
+2011,Alzheimer's disease,Massachusetts,1819,21.2
+2011,Alzheimer's disease,Michigan,2876,24.55
+2011,Alzheimer's disease,Minnesota,1451,22.75
+2011,Alzheimer's disease,Mississippi,975,33.59
+2011,Alzheimer's disease,Missouri,1927,27.35
+2011,Alzheimer's disease,Montana,258,20.69
+2011,Alzheimer's disease,Nebraska,597,26.02
+2011,Alzheimer's disease,Nevada,349,15.8
+2011,Alzheimer's disease,New Hampshire,395,25.71
+2011,Alzheimer's disease,New Jersey,1960,18.16
+2011,Alzheimer's disease,New Mexico,423,19.82
+2011,Alzheimer's disease,New York,2563,10.82
+2011,Alzheimer's disease,North Carolina,2828,29.31
+2011,Alzheimer's disease,North Dakota,410,41.46
+2011,Alzheimer's disease,Ohio,4037,28.5
+2011,Alzheimer's disease,Oklahoma,1130,28.17
+2011,Alzheimer's disease,Oregon,1324,28.3
+2011,Alzheimer's disease,Pennsylvania,3496,19.12
+2011,Alzheimer's disease,Rhode Island,320,21.11
+2011,Alzheimer's disease,South Carolina,1560,33.12
+2011,Alzheimer's disease,South Dakota,424,36.7
+2011,Alzheimer's disease,Tennessee,2589,39.51
+2011,Alzheimer's disease,Texas,5415,26.58
+2011,Alzheimer's disease,Utah,402,20.01
+2011,Alzheimer's disease,Vermont,257,32.45
+2011,Alzheimer's disease,Virginia,1807,23.07
+2011,Alzheimer's disease,Washington,3138,43.38
+2011,Alzheimer's disease,West Virginia,610,26.24
+2011,Alzheimer's disease,Wisconsin,1807,25.27
+2011,Alzheimer's disease,Wyoming,153,27.65
+2012,Alzheimer's disease,Alabama,1390,27.18
+2012,Alzheimer's disease,Alaska,102,27.21
+2012,Alzheimer's disease,Arizona,2160,29.96
+2012,Alzheimer's disease,Arkansas,931,27.87
+2012,Alzheimer's disease,California,11649,30.04
+2012,Alzheimer's disease,Colorado,1322,28.42
+2012,Alzheimer's disease,Connecticut,842,16.78
+2012,Alzheimer's disease,Delaware,213,20.18
+2012,Alzheimer's disease,District of Columbia,129,20.51
+2012,Alzheimer's disease,Florida,4422,15.21
+2012,Alzheimer's disease,Georgia,2074,26.22
+2012,Alzheimer's disease,Hawaii,249,12.36
+2012,Alzheimer's disease,Idaho,354,21.93
+2012,Alzheimer's disease,Illinois,2865,19.8
+2012,Alzheimer's disease,Indiana,2038,28.05
+2012,Alzheimer's disease,Iowa,1336,30.45
+2012,Alzheimer's disease,Kansas,789,22.49
+2012,Alzheimer's disease,Kentucky,1506,33.01
+2012,Alzheimer's disease,Louisiana,1399,31.56
+2012,Alzheimer's disease,Maine,432,23.45
+2012,Alzheimer's disease,Maryland,906,14.67
+2012,Alzheimer's disease,Massachusetts,1713,19.82
+2012,Alzheimer's disease,Michigan,3064,25.61
+2012,Alzheimer's disease,Minnesota,1445,22.2
+2012,Alzheimer's disease,Mississippi,923,30.72
+2012,Alzheimer's disease,Missouri,1863,25.94
+2012,Alzheimer's disease,Montana,265,20.83
+2012,Alzheimer's disease,Nebraska,570,24.42
+2012,Alzheimer's disease,Nevada,356,15.33
+2012,Alzheimer's disease,New Hampshire,392,25.14
+2012,Alzheimer's disease,New Jersey,1881,17.14
+2012,Alzheimer's disease,New Mexico,373,17.06
+2012,Alzheimer's disease,New York,2640,10.93
+2012,Alzheimer's disease,North Carolina,2850,28.44
+2012,Alzheimer's disease,North Dakota,364,36.63
+2012,Alzheimer's disease,Ohio,3935,27.37
+2012,Alzheimer's disease,Oklahoma,1069,26.28
+2012,Alzheimer's disease,Oregon,1326,27.89
+2012,Alzheimer's disease,Pennsylvania,3505,18.9
+2012,Alzheimer's disease,Rhode Island,299,19.81
+2012,Alzheimer's disease,South Carolina,1634,33.58
+2012,Alzheimer's disease,South Dakota,460,39.42
+2012,Alzheimer's disease,Tennessee,2434,36.32
+2012,Alzheimer's disease,Texas,5175,24.6
+2012,Alzheimer's disease,Utah,411,19.85
+2012,Alzheimer's disease,Vermont,284,35.28
+2012,Alzheimer's disease,Virginia,1712,21.2
+2012,Alzheimer's disease,Washington,3219,43.75
+2012,Alzheimer's disease,West Virginia,598,25.32
+2012,Alzheimer's disease,Wisconsin,1646,22.64
+2012,Alzheimer's disease,Wyoming,123,21.5
+2013,Alzheimer's disease,Alabama,1398,26.67
+2013,Alzheimer's disease,Alaska,72,18.86
+2013,Alzheimer's disease,Arizona,2383,31.65
+2013,Alzheimer's disease,Arkansas,918,27.19
+2013,Alzheimer's disease,California,11891,29.98
+2013,Alzheimer's disease,Colorado,1316,27.17
+2013,Alzheimer's disease,Connecticut,824,16.23
+2013,Alzheimer's disease,Delaware,192,17.59
+2013,Alzheimer's disease,District of Columbia,130,19.76
+2013,Alzheimer's disease,Florida,5093,16.86
+2013,Alzheimer's disease,Georgia,2048,24.98
+2013,Alzheimer's disease,Hawaii,260,12.62
+2013,Alzheimer's disease,Idaho,347,20.97
+2013,Alzheimer's disease,Illinois,2919,19.82
+2013,Alzheimer's disease,Indiana,2104,28.52
+2013,Alzheimer's disease,Iowa,1252,28.2
+2013,Alzheimer's disease,Kansas,742,20.8
+2013,Alzheimer's disease,Kentucky,1462,31.41
+2013,Alzheimer's disease,Louisiana,1505,32.93
+2013,Alzheimer's disease,Maine,401,21.57
+2013,Alzheimer's disease,Maryland,919,14.29
+2013,Alzheimer's disease,Massachusetts,1699,19.4
+2013,Alzheimer's disease,Michigan,3220,26.37
+2013,Alzheimer's disease,Minnesota,1427,21.5
+2013,Alzheimer's disease,Mississippi,925,30.05
+2013,Alzheimer's disease,Missouri,2026,27.49
+2013,Alzheimer's disease,Montana,267,20.72
+2013,Alzheimer's disease,Nebraska,557,23.57
+2013,Alzheimer's disease,Nevada,448,18.39
+2013,Alzheimer's disease,New Hampshire,351,21.46
+2013,Alzheimer's disease,New Jersey,1812,16.25
+2013,Alzheimer's disease,New Mexico,339,14.91
+2013,Alzheimer's disease,New York,2556,10.42
+2013,Alzheimer's disease,North Carolina,2872,27.71
+2013,Alzheimer's disease,North Dakota,363,36.56
+2013,Alzheimer's disease,Ohio,3798,25.97
+2013,Alzheimer's disease,Oklahoma,1145,27.57
+2013,Alzheimer's disease,Oregon,1312,27.17
+2013,Alzheimer's disease,Pennsylvania,3271,17.41
+2013,Alzheimer's disease,Rhode Island,346,22.27
+2013,Alzheimer's disease,South Carolina,1623,32.37
+2013,Alzheimer's disease,South Dakota,418,34.95
+2013,Alzheimer's disease,Tennessee,2536,36.94
+2013,Alzheimer's disease,Texas,5293,24.29
+2013,Alzheimer's disease,Utah,412,19.42
+2013,Alzheimer's disease,Vermont,269,32.92
+2013,Alzheimer's disease,Virginia,1642,19.74
+2013,Alzheimer's disease,Washington,3277,43.6
+2013,Alzheimer's disease,West Virginia,590,24.56
+2013,Alzheimer's disease,Wisconsin,1671,22.73
+2013,Alzheimer's disease,Wyoming,126,21.01

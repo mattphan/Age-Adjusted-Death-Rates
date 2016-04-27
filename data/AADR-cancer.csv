@@ -1,0 +1,766 @@
+YEAR,CAUSE_NAME,region,DEATHS,AADR
+1999,Cancer,Alabama,9506,210.9
+1999,Cancer,Alaska,633,190.54
+1999,Cancer,Arizona,9006,179.9
+1999,Cancer,Arkansas,6137,214.07
+1999,Cancer,California,53067,184.86
+1999,Cancer,Colorado,5863,171.14
+1999,Cancer,Connecticut,7054,191
+1999,Cancer,Delaware,1737,223.29
+1999,Cancer,District of Columbia,1340,241.35
+1999,Cancer,Florida,38478,190.55
+1999,Cancer,Georgia,13225,202.25
+1999,Cancer,Hawaii,1916,156.58
+1999,Cancer,Idaho,2162,186.36
+1999,Cancer,Illinois,25024,210.41
+1999,Cancer,Indiana,12898,217.36
+1999,Cancer,Iowa,6346,189.13
+1999,Cancer,Kansas,5334,192.38
+1999,Cancer,Kentucky,8925,224.22
+1999,Cancer,Louisiana,9412,230.48
+1999,Cancer,Maine,3035,214.59
+1999,Cancer,Maryland,10143,209.45
+1999,Cancer,Massachusetts,13853,206.36
+1999,Cancer,Michigan,19744,205.19
+1999,Cancer,Minnesota,8892,187.02
+1999,Cancer,Mississippi,6143,227.91
+1999,Cancer,Missouri,12186,207.9
+1999,Cancer,Montana,1854,195.09
+1999,Cancer,Nebraska,3410,189.04
+1999,Cancer,Nevada,3556,206.73
+1999,Cancer,New Hampshire,2408,203.55
+1999,Cancer,New Jersey,18178,209.26
+1999,Cancer,New Mexico,2857,173.26
+1999,Cancer,New York,37609,196.62
+1999,Cancer,North Carolina,15815,207.12
+1999,Cancer,North Dakota,1366,186.67
+1999,Cancer,Ohio,25233,215.41
+1999,Cancer,Oklahoma,7312,206.67
+1999,Cancer,Oregon,6905,198.24
+1999,Cancer,Pennsylvania,30312,209.52
+1999,Cancer,Rhode Island,2463,210.32
+1999,Cancer,South Carolina,8089,211.65
+1999,Cancer,South Dakota,1632,197.43
+1999,Cancer,Tennessee,11943,213.89
+1999,Cancer,Texas,32755,196.05
+1999,Cancer,Utah,2393,155.65
+1999,Cancer,Vermont,1255,203.72
+1999,Cancer,Virginia,13365,209.05
+1999,Cancer,Washington,10653,198.31
+1999,Cancer,West Virginia,4762,225.14
+1999,Cancer,Wisconsin,10755,195.54
+1999,Cancer,Wyoming,899,195.12
+2000,Cancer,Alabama,9807,215.43
+2000,Cancer,Alaska,704,208.2
+2000,Cancer,Arizona,9073,177.87
+2000,Cancer,Arkansas,6090,210.54
+2000,Cancer,California,53158,182.12
+2000,Cancer,Colorado,5922,169.96
+2000,Cancer,Connecticut,7065,189.54
+2000,Cancer,Delaware,1609,203.26
+2000,Cancer,District of Columbia,1335,238.28
+2000,Cancer,Florida,39183,191.56
+2000,Cancer,Georgia,13690,206.66
+2000,Cancer,Hawaii,1943,155.7
+2000,Cancer,Idaho,2128,180.56
+2000,Cancer,Illinois,25365,212.04
+2000,Cancer,Indiana,12842,214.74
+2000,Cancer,Iowa,6448,191.71
+2000,Cancer,Kansas,5223,186.99
+2000,Cancer,Kentucky,9207,228.66
+2000,Cancer,Louisiana,9400,227.92
+2000,Cancer,Maine,3070,213.62
+2000,Cancer,Maryland,10290,209.69
+2000,Cancer,Massachusetts,14027,207.21
+2000,Cancer,Michigan,19798,203.95
+2000,Cancer,Minnesota,9215,191.76
+2000,Cancer,Mississippi,6075,223.63
+2000,Cancer,Missouri,12144,205.86
+2000,Cancer,Montana,1867,194.04
+2000,Cancer,Nebraska,3382,186.18
+2000,Cancer,Nevada,3763,213.61
+2000,Cancer,New Hampshire,2484,206.94
+2000,Cancer,New Jersey,18073,205.92
+2000,Cancer,New Mexico,2906,172.29
+2000,Cancer,New York,37198,192.22
+2000,Cancer,North Carolina,15786,204.23
+2000,Cancer,North Dakota,1346,183.68
+2000,Cancer,Ohio,24988,212
+2000,Cancer,Oklahoma,7402,207.42
+2000,Cancer,Oregon,6951,197.33
+2000,Cancer,Pennsylvania,30161,207.02
+2000,Cancer,Rhode Island,2433,206.41
+2000,Cancer,South Carolina,8250,212.64
+2000,Cancer,South Dakota,1597,190.51
+2000,Cancer,Tennessee,12339,218.81
+2000,Cancer,Texas,33300,196.26
+2000,Cancer,Utah,2359,151.19
+2000,Cancer,Vermont,1240,198.03
+2000,Cancer,Virginia,13528,208.55
+2000,Cancer,Washington,10668,195.78
+2000,Cancer,West Virginia,4753,223.9
+2000,Cancer,Wisconsin,10638,191.68
+2000,Cancer,Wyoming,868,185.51
+2001,Cancer,Alabama,9801,213.04
+2001,Cancer,Alaska,689,193.73
+2001,Cancer,Arizona,9143,173.82
+2001,Cancer,Arkansas,6092,208.81
+2001,Cancer,California,53924,180.24
+2001,Cancer,Colorado,6145,170.88
+2001,Cancer,Connecticut,7093,187.58
+2001,Cancer,Delaware,1786,220.98
+2001,Cancer,District of Columbia,1327,237.51
+2001,Cancer,Florida,39090,187.43
+2001,Cancer,Georgia,13818,202.82
+2001,Cancer,Hawaii,2024,157.24
+2001,Cancer,Idaho,2093,172.75
+2001,Cancer,Illinois,24778,205.11
+2001,Cancer,Indiana,12831,211.92
+2001,Cancer,Iowa,6404,188.94
+2001,Cancer,Kansas,5448,193.8
+2001,Cancer,Kentucky,9358,229.66
+2001,Cancer,Louisiana,9517,228
+2001,Cancer,Maine,3045,208.34
+2001,Cancer,Maryland,10322,205.39
+2001,Cancer,Massachusetts,13750,201.17
+2001,Cancer,Michigan,19689,199.86
+2001,Cancer,Minnesota,8967,183.76
+2001,Cancer,Mississippi,5958,217.14
+2001,Cancer,Missouri,12365,207.08
+2001,Cancer,Montana,1956,199.4
+2001,Cancer,Nebraska,3389,185.45
+2001,Cancer,Nevada,3815,205.13
+2001,Cancer,New Hampshire,2398,195.89
+2001,Cancer,New Jersey,18165,204.44
+2001,Cancer,New Mexico,2900,167.34
+2001,Cancer,New York,36975,188.42
+2001,Cancer,North Carolina,16065,202.74
+2001,Cancer,North Dakota,1391,189.18
+2001,Cancer,Ohio,24804,208.41
+2001,Cancer,Oklahoma,7411,206.31
+2001,Cancer,Oregon,7057,196.49
+2001,Cancer,Pennsylvania,29914,204.4
+2001,Cancer,Rhode Island,2398,202.49
+2001,Cancer,South Carolina,8272,208.27
+2001,Cancer,South Dakota,1590,188.53
+2001,Cancer,Tennessee,12229,213.07
+2001,Cancer,Texas,33488,192.61
+2001,Cancer,Utah,2313,144.33
+2001,Cancer,Vermont,1249,196.43
+2001,Cancer,Virginia,13345,200.49
+2001,Cancer,Washington,10802,194.16
+2001,Cancer,West Virginia,4685,219.24
+2001,Cancer,Wisconsin,10777,191.59
+2001,Cancer,Wyoming,923,194.02
+2002,Cancer,Alabama,9698,208.33
+2002,Cancer,Alaska,715,189.84
+2002,Cancer,Arizona,9359,173.22
+2002,Cancer,Arkansas,6282,212.82
+2002,Cancer,California,54143,177.27
+2002,Cancer,Colorado,6384,173.7
+2002,Cancer,Connecticut,7163,186.34
+2002,Cancer,Delaware,1621,194.75
+2002,Cancer,District of Columbia,1298,231.77
+2002,Cancer,Florida,39140,183.83
+2002,Cancer,Georgia,13975,200.03
+2002,Cancer,Hawaii,1945,147.18
+2002,Cancer,Idaho,2138,172.33
+2002,Cancer,Illinois,24737,202.78
+2002,Cancer,Indiana,12865,209.73
+2002,Cancer,Iowa,6473,189.28
+2002,Cancer,Kansas,5362,188.74
+2002,Cancer,Kentucky,9438,228.56
+2002,Cancer,Louisiana,9441,222.76
+2002,Cancer,Maine,3206,214.89
+2002,Cancer,Maryland,10395,202.16
+2002,Cancer,Massachusetts,13914,201.44
+2002,Cancer,Michigan,19985,199.91
+2002,Cancer,Minnesota,9210,185.31
+2002,Cancer,Mississippi,6069,218.84
+2002,Cancer,Missouri,12322,204.1
+2002,Cancer,Montana,1911,191.05
+2002,Cancer,Nebraska,3433,186.13
+2002,Cancer,Nevada,3937,201.28
+2002,Cancer,New Hampshire,2529,201.82
+2002,Cancer,New Jersey,17827,198.13
+2002,Cancer,New Mexico,3067,173.16
+2002,Cancer,New York,36661,184.44
+2002,Cancer,North Carolina,16210,199.85
+2002,Cancer,North Dakota,1293,175.54
+2002,Cancer,Ohio,25173,208.96
+2002,Cancer,Oklahoma,7474,205.74
+2002,Cancer,Oregon,7249,197.29
+2002,Cancer,Pennsylvania,29849,201.94
+2002,Cancer,Rhode Island,2404,199.31
+2002,Cancer,South Carolina,8333,205.79
+2002,Cancer,South Dakota,1562,183.3
+2002,Cancer,Tennessee,12518,214.61
+2002,Cancer,Texas,34164,192.16
+2002,Cancer,Utah,2376,144.37
+2002,Cancer,Vermont,1224,188.33
+2002,Cancer,Virginia,13602,199.95
+2002,Cancer,Washington,10858,190.55
+2002,Cancer,West Virginia,4652,215.23
+2002,Cancer,Wisconsin,10828,189.64
+2002,Cancer,Wyoming,859,177.12
+2003,Cancer,Alabama,9812,208.24
+2003,Cancer,Alaska,735,188.42
+2003,Cancer,Arizona,9627,173.04
+2003,Cancer,Arkansas,6119,205.11
+2003,Cancer,California,54319,174
+2003,Cancer,Colorado,6417,169.39
+2003,Cancer,Connecticut,7131,183.02
+2003,Cancer,Delaware,1719,201.54
+2003,Cancer,District of Columbia,1122,200.89
+2003,Cancer,Florida,39404,181.72
+2003,Cancer,Georgia,14032,196.29
+2003,Cancer,Hawaii,2133,157.4
+2003,Cancer,Idaho,2321,181.82
+2003,Cancer,Illinois,24464,198.24
+2003,Cancer,Indiana,12933,207.5
+2003,Cancer,Iowa,6469,187.84
+2003,Cancer,Kansas,5332,185.94
+2003,Cancer,Kentucky,9378,223.67
+2003,Cancer,Louisiana,9533,221.81
+2003,Cancer,Maine,3120,205.44
+2003,Cancer,Maryland,10292,196.37
+2003,Cancer,Massachusetts,13551,194.58
+2003,Cancer,Michigan,19713,194.11
+2003,Cancer,Minnesota,9183,181.74
+2003,Cancer,Mississippi,5960,212.23
+2003,Cancer,Missouri,12354,202.05
+2003,Cancer,Montana,1847,181.73
+2003,Cancer,Nebraska,3339,179
+2003,Cancer,Nevada,4138,200.18
+2003,Cancer,New Hampshire,2485,193.7
+2003,Cancer,New Jersey,17957,197.27
+2003,Cancer,New Mexico,3103,170.1
+2003,Cancer,New York,36238,180.18
+2003,Cancer,North Carolina,16145,193.87
+2003,Cancer,North Dakota,1334,179.18
+2003,Cancer,Ohio,25076,205.27
+2003,Cancer,Oklahoma,7338,199.84
+2003,Cancer,Oregon,7232,192.52
+2003,Cancer,Pennsylvania,29841,199.97
+2003,Cancer,Rhode Island,2328,192.07
+2003,Cancer,South Carolina,8512,204.41
+2003,Cancer,South Dakota,1636,190.27
+2003,Cancer,Tennessee,12613,212.67
+2003,Cancer,Texas,33867,186.12
+2003,Cancer,Utah,2444,144.56
+2003,Cancer,Vermont,1210,183.55
+2003,Cancer,Virginia,13781,198.08
+2003,Cancer,Washington,11064,190.39
+2003,Cancer,West Virginia,4610,211.63
+2003,Cancer,Wisconsin,10648,183.39
+2003,Cancer,Wyoming,943,188.9
+2004,Cancer,Alabama,9756,204.54
+2004,Cancer,Alaska,728,184.23
+2004,Cancer,Arizona,9618,167.53
+2004,Cancer,Arkansas,6304,208.55
+2004,Cancer,California,53700,169.19
+2004,Cancer,Colorado,6196,159.36
+2004,Cancer,Connecticut,7175,182.41
+2004,Cancer,Delaware,1827,208.28
+2004,Cancer,District of Columbia,1152,206.35
+2004,Cancer,Florida,39840,179.44
+2004,Cancer,Georgia,14313,195.46
+2004,Cancer,Hawaii,2088,150.52
+2004,Cancer,Idaho,2227,169.63
+2004,Cancer,Illinois,24289,194.79
+2004,Cancer,Indiana,12552,199.07
+2004,Cancer,Iowa,6340,182.25
+2004,Cancer,Kansas,5312,183.05
+2004,Cancer,Kentucky,9159,215.48
+2004,Cancer,Louisiana,9434,216.26
+2004,Cancer,Maine,3124,202.23
+2004,Cancer,Maryland,10168,190.47
+2004,Cancer,Massachusetts,13337,190.1
+2004,Cancer,Michigan,19653,190.92
+2004,Cancer,Minnesota,9093,176.96
+2004,Cancer,Mississippi,5983,209.83
+2004,Cancer,Missouri,12450,201.11
+2004,Cancer,Montana,1867,179.63
+2004,Cancer,Nebraska,3270,173.74
+2004,Cancer,Nevada,4119,191.89
+2004,Cancer,New Hampshire,2554,194.77
+2004,Cancer,New Jersey,17208,187.05
+2004,Cancer,New Mexico,3036,162.46
+2004,Cancer,New York,36100,177.77
+2004,Cancer,North Carolina,16477,193.67
+2004,Cancer,North Dakota,1265,166.82
+2004,Cancer,Ohio,24940,202.13
+2004,Cancer,Oklahoma,7269,196.03
+2004,Cancer,Oregon,7236,188.82
+2004,Cancer,Pennsylvania,29424,196.05
+2004,Cancer,Rhode Island,2418,196.84
+2004,Cancer,South Carolina,8348,195.82
+2004,Cancer,South Dakota,1555,177.48
+2004,Cancer,Tennessee,12586,208.14
+2004,Cancer,Texas,33937,182.09
+2004,Cancer,Utah,2445,141.06
+2004,Cancer,Vermont,1212,179.47
+2004,Cancer,Virginia,13385,188.51
+2004,Cancer,Washington,10989,184.62
+2004,Cancer,West Virginia,4694,212.15
+2004,Cancer,Wisconsin,10861,184.66
+2004,Cancer,Wyoming,875,171.67
+2005,Cancer,Alabama,9913,204.36
+2005,Cancer,Alaska,732,170.97
+2005,Cancer,Arizona,9820,164.23
+2005,Cancer,Arkansas,6361,207.68
+2005,Cancer,California,54732,168.94
+2005,Cancer,Colorado,6395,159.71
+2005,Cancer,Connecticut,7052,176.81
+2005,Cancer,Delaware,1799,199.1
+2005,Cancer,District of Columbia,1151,205.27
+2005,Cancer,Florida,40592,178.38
+2005,Cancer,Georgia,14358,189.86
+2005,Cancer,Hawaii,2169,151.26
+2005,Cancer,Idaho,2368,174.6
+2005,Cancer,Illinois,24250,192.12
+2005,Cancer,Indiana,12796,199.83
+2005,Cancer,Iowa,6453,183.72
+2005,Cancer,Kansas,5428,185.58
+2005,Cancer,Kentucky,9505,219.06
+2005,Cancer,Louisiana,9249,208.55
+2005,Cancer,Maine,3218,204.8
+2005,Cancer,Maryland,10371,190.4
+2005,Cancer,Massachusetts,13182,186.25
+2005,Cancer,Michigan,20094,192.59
+2005,Cancer,Minnesota,8823,168.95
+2005,Cancer,Mississippi,6065,208.92
+2005,Cancer,Missouri,12419,197.98
+2005,Cancer,Montana,1956,184.15
+2005,Cancer,Nebraska,3355,175.52
+2005,Cancer,Nevada,4238,191
+2005,Cancer,New Hampshire,2549,189.77
+2005,Cancer,New Jersey,17171,185.02
+2005,Cancer,New Mexico,3141,162.85
+2005,Cancer,New York,35556,173.39
+2005,Cancer,North Carolina,16724,191.2
+2005,Cancer,North Dakota,1302,170.46
+2005,Cancer,Ohio,24702,198.07
+2005,Cancer,Oklahoma,7446,198.03
+2005,Cancer,Oregon,7326,186.48
+2005,Cancer,Pennsylvania,29616,195.57
+2005,Cancer,Rhode Island,2292,186.83
+2005,Cancer,South Carolina,8652,198.2
+2005,Cancer,South Dakota,1612,182.58
+2005,Cancer,Tennessee,12995,210.26
+2005,Cancer,Texas,34291,178.89
+2005,Cancer,Utah,2520,140.91
+2005,Cancer,Vermont,1202,175.93
+2005,Cancer,Virginia,13877,190.04
+2005,Cancer,Washington,11048,181.04
+2005,Cancer,West Virginia,4617,207.43
+2005,Cancer,Wisconsin,10943,182.83
+2005,Cancer,Wyoming,886,169.18
+2006,Cancer,Alabama,9899,199.43
+2006,Cancer,Alaska,790,177.76
+2006,Cancer,Arizona,9919,159.96
+2006,Cancer,Arkansas,6177,196.74
+2006,Cancer,California,54140,164.53
+2006,Cancer,Colorado,6550,157.52
+2006,Cancer,Connecticut,7044,175.46
+2006,Cancer,Delaware,1780,190.7
+2006,Cancer,District of Columbia,1178,210.45
+2006,Cancer,Florida,40415,174.6
+2006,Cancer,Georgia,14474,184.01
+2006,Cancer,Hawaii,2171,147.78
+2006,Cancer,Idaho,2306,163.24
+2006,Cancer,Illinois,24084,188.66
+2006,Cancer,Indiana,12903,197.53
+2006,Cancer,Iowa,6359,178.96
+2006,Cancer,Kansas,5343,180.11
+2006,Cancer,Kentucky,9394,211.98
+2006,Cancer,Louisiana,8853,206.12
+2006,Cancer,Maine,3089,192.71
+2006,Cancer,Maryland,10350,187
+2006,Cancer,Massachusetts,13407,187.45
+2006,Cancer,Michigan,20192,190.48
+2006,Cancer,Minnesota,9079,170.69
+2006,Cancer,Mississippi,6236,212.66
+2006,Cancer,Missouri,12519,195.82
+2006,Cancer,Montana,1943,177.89
+2006,Cancer,Nebraska,3430,176.63
+2006,Cancer,Nevada,4226,184.47
+2006,Cancer,New Hampshire,2534,183.91
+2006,Cancer,New Jersey,17180,183.04
+2006,Cancer,New Mexico,3147,158.49
+2006,Cancer,New York,35284,170.88
+2006,Cancer,North Carolina,17318,191.39
+2006,Cancer,North Dakota,1387,180.21
+2006,Cancer,Ohio,24975,197.3
+2006,Cancer,Oklahoma,7491,195.18
+2006,Cancer,Oregon,7309,180.92
+2006,Cancer,Pennsylvania,29172,190.5
+2006,Cancer,Rhode Island,2250,181.42
+2006,Cancer,South Carolina,8853,194.7
+2006,Cancer,South Dakota,1570,173.07
+2006,Cancer,Tennessee,13051,204.64
+2006,Cancer,Texas,34939,176.1
+2006,Cancer,Utah,2615,139.85
+2006,Cancer,Vermont,1214,172.64
+2006,Cancer,Virginia,13829,185.25
+2006,Cancer,Washington,11055,175.33
+2006,Cancer,West Virginia,4613,203.63
+2006,Cancer,Wisconsin,10925,179.9
+2006,Cancer,Wyoming,927,174.64
+2007,Cancer,Alabama,10025,198.67
+2007,Cancer,Alaska,839,182.61
+2007,Cancer,Arizona,10134,158.89
+2007,Cancer,Arkansas,6388,201.28
+2007,Cancer,California,55011,163.81
+2007,Cancer,Colorado,6617,154.08
+2007,Cancer,Connecticut,6827,167.23
+2007,Cancer,Delaware,1853,193.52
+2007,Cancer,District of Columbia,1169,208.19
+2007,Cancer,Florida,40088,169.82
+2007,Cancer,Georgia,14983,185.52
+2007,Cancer,Hawaii,2214,147.99
+2007,Cancer,Idaho,2405,166.26
+2007,Cancer,Illinois,24115,186.57
+2007,Cancer,Indiana,12778,192.6
+2007,Cancer,Iowa,6376,176.84
+2007,Cancer,Kansas,5406,179.22
+2007,Cancer,Kentucky,9692,214.73
+2007,Cancer,Louisiana,8736,199.3
+2007,Cancer,Maine,3112,189.87
+2007,Cancer,Maryland,10179,180.45
+2007,Cancer,Massachusetts,13003,179.51
+2007,Cancer,Michigan,20087,186.38
+2007,Cancer,Minnesota,9176,168.67
+2007,Cancer,Mississippi,6002,201.8
+2007,Cancer,Missouri,12380,190.89
+2007,Cancer,Montana,1921,170.73
+2007,Cancer,Nebraska,3479,176.56
+2007,Cancer,Nevada,4331,180.76
+2007,Cancer,New Hampshire,2609,184.68
+2007,Cancer,New Jersey,17096,180.09
+2007,Cancer,New Mexico,3238,158.07
+2007,Cancer,New York,35485,169.8
+2007,Cancer,North Carolina,17478,187.11
+2007,Cancer,North Dakota,1264,162.61
+2007,Cancer,Ohio,25230,196.33
+2007,Cancer,Oklahoma,7727,198.48
+2007,Cancer,Oregon,7393,178.8
+2007,Cancer,Pennsylvania,29014,186.93
+2007,Cancer,Rhode Island,2213,178.36
+2007,Cancer,South Carolina,8867,188.47
+2007,Cancer,South Dakota,1612,174.28
+2007,Cancer,Tennessee,13161,201.57
+2007,Cancer,Texas,35074,171.89
+2007,Cancer,Utah,2572,133.24
+2007,Cancer,Vermont,1346,188.58
+2007,Cancer,Virginia,14009,184.03
+2007,Cancer,Washington,11568,178.96
+2007,Cancer,West Virginia,4690,204.33
+2007,Cancer,Wisconsin,10963,177.22
+2007,Cancer,Wyoming,940,172.93
+2008,Cancer,Alabama,10182,197.48
+2008,Cancer,Alaska,867,181.05
+2008,Cancer,Arizona,10081,153.22
+2008,Cancer,Arkansas,6526,201.38
+2008,Cancer,California,54686,158.83
+2008,Cancer,Colorado,6719,150.9
+2008,Cancer,Connecticut,6830,164.75
+2008,Cancer,Delaware,1912,193.26
+2008,Cancer,District of Columbia,1143,201.62
+2008,Cancer,Florida,40814,169.54
+2008,Cancer,Georgia,14621,175.07
+2008,Cancer,Hawaii,2194,142.51
+2008,Cancer,Idaho,2511,166.68
+2008,Cancer,Illinois,24300,185.02
+2008,Cancer,Indiana,13137,194.28
+2008,Cancer,Iowa,6424,177.1
+2008,Cancer,Kansas,5294,173.07
+2008,Cancer,Kentucky,9589,207.81
+2008,Cancer,Louisiana,9197,205.68
+2008,Cancer,Maine,3093,185
+2008,Cancer,Maryland,10360,180.06
+2008,Cancer,Massachusetts,13031,177.23
+2008,Cancer,Michigan,20211,184.41
+2008,Cancer,Minnesota,9446,170.23
+2008,Cancer,Mississippi,6166,202.85
+2008,Cancer,Missouri,12523,189.49
+2008,Cancer,Montana,1862,161.26
+2008,Cancer,Nebraska,3376,169.74
+2008,Cancer,Nevada,4404,179.41
+2008,Cancer,New Hampshire,2576,177.31
+2008,Cancer,New Jersey,16876,175.01
+2008,Cancer,New Mexico,3355,160.33
+2008,Cancer,New York,35351,166.91
+2008,Cancer,North Carolina,17453,181.29
+2008,Cancer,North Dakota,1354,171.35
+2008,Cancer,Ohio,24998,191.91
+2008,Cancer,Oklahoma,7657,193.13
+2008,Cancer,Oregon,7479,177.01
+2008,Cancer,Pennsylvania,28964,184.69
+2008,Cancer,Rhode Island,2227,178.14
+2008,Cancer,South Carolina,9199,189.99
+2008,Cancer,South Dakota,1570,168.36
+2008,Cancer,Tennessee,13162,197.21
+2008,Cancer,Texas,35713,169.91
+2008,Cancer,Utah,2492,125.43
+2008,Cancer,Vermont,1279,176.34
+2008,Cancer,Virginia,13983,179.08
+2008,Cancer,Washington,11618,175.45
+2008,Cancer,West Virginia,4605,198.47
+2008,Cancer,Wisconsin,11185,177.77
+2008,Cancer,Wyoming,874,156.72
+2009,Cancer,Alabama,10289,196.32
+2009,Cancer,Alaska,895,183
+2009,Cancer,Arizona,10271,152.04
+2009,Cancer,Arkansas,6513,198.27
+2009,Cancer,California,55991,158.78
+2009,Cancer,Colorado,6950,151.41
+2009,Cancer,Connecticut,6819,162.8
+2009,Cancer,Delaware,1813,178.65
+2009,Cancer,District of Columbia,1131,197.44
+2009,Cancer,Florida,40932,166.61
+2009,Cancer,Georgia,15143,175.62
+2009,Cancer,Hawaii,2244,141.31
+2009,Cancer,Idaho,2458,158.93
+2009,Cancer,Illinois,24185,181.75
+2009,Cancer,Indiana,13093,190.4
+2009,Cancer,Iowa,6249,170.41
+2009,Cancer,Kansas,5319,171.88
+2009,Cancer,Kentucky,9634,204.85
+2009,Cancer,Louisiana,9098,198.57
+2009,Cancer,Maine,3133,185.21
+2009,Cancer,Maryland,10412,176.73
+2009,Cancer,Massachusetts,13112,175.53
+2009,Cancer,Michigan,20257,182.22
+2009,Cancer,Minnesota,9580,168.67
+2009,Cancer,Mississippi,6131,199.77
+2009,Cancer,Missouri,12472,185.7
+2009,Cancer,Montana,1914,163.04
+2009,Cancer,Nebraska,3336,165.09
+2009,Cancer,Nevada,4461,175.29
+2009,Cancer,New Hampshire,2562,173.29
+2009,Cancer,New Jersey,16541,168.97
+2009,Cancer,New Mexico,3202,149.02
+2009,Cancer,New York,35216,164.23
+2009,Cancer,North Carolina,17513,176.86
+2009,Cancer,North Dakota,1243,156.3
+2009,Cancer,Ohio,25149,190.52
+2009,Cancer,Oklahoma,7639,189.24
+2009,Cancer,Oregon,7487,172.68
+2009,Cancer,Pennsylvania,28881,182.51
+2009,Cancer,Rhode Island,2220,174.87
+2009,Cancer,South Carolina,9123,182.77
+2009,Cancer,South Dakota,1503,158.66
+2009,Cancer,Tennessee,13482,197.45
+2009,Cancer,Texas,35591,164.43
+2009,Cancer,Utah,2555,124.73
+2009,Cancer,Vermont,1254,169.15
+2009,Cancer,Virginia,14122,176.18
+2009,Cancer,Washington,11922,174.85
+2009,Cancer,West Virginia,4786,204.22
+2009,Cancer,Wisconsin,10866,169.53
+2009,Cancer,Wyoming,936,164.68
+2010,Cancer,Alabama,10196,191.71
+2010,Cancer,Alaska,884,176.92
+2010,Cancer,Arizona,10678,154.24
+2010,Cancer,Arkansas,6475,194.71
+2010,Cancer,California,56453,156.85
+2010,Cancer,Colorado,7035,149.5
+2010,Cancer,Connecticut,6954,163.37
+2010,Cancer,Delaware,1909,185.67
+2010,Cancer,District of Columbia,1041,178.25
+2010,Cancer,Florida,41467,165.59
+2010,Cancer,Georgia,15435,174.84
+2010,Cancer,Hawaii,2266,140.89
+2010,Cancer,Idaho,2530,159.91
+2010,Cancer,Illinois,24070,178.62
+2010,Cancer,Indiana,13164,188.59
+2010,Cancer,Iowa,6358,171.94
+2010,Cancer,Kansas,5377,171.25
+2010,Cancer,Kentucky,9930,208.32
+2010,Cancer,Louisiana,9203,197.61
+2010,Cancer,Maine,3248,187.85
+2010,Cancer,Maryland,10269,171.21
+2010,Cancer,Massachusetts,12993,171.33
+2010,Cancer,Michigan,20620,182.88
+2010,Cancer,Minnesota,9612,167.16
+2010,Cancer,Mississippi,6271,201.42
+2010,Cancer,Missouri,12626,185.57
+2010,Cancer,Montana,1923,160.97
+2010,Cancer,Nebraska,3438,167.39
+2010,Cancer,Nevada,4529,174.19
+2010,Cancer,New Hampshire,2525,167.87
+2010,Cancer,New Jersey,16815,169.46
+2010,Cancer,New Mexico,3358,152.4
+2010,Cancer,New York,35431,163.14
+2010,Cancer,North Carolina,18061,178.95
+2010,Cancer,North Dakota,1269,157.07
+2010,Cancer,Ohio,25083,187.74
+2010,Cancer,Oklahoma,7831,191.32
+2010,Cancer,Oregon,7638,173.88
+2010,Cancer,Pennsylvania,29055,181.64
+2010,Cancer,Rhode Island,2266,178.27
+2010,Cancer,South Carolina,9356,183.62
+2010,Cancer,South Dakota,1655,171.04
+2010,Cancer,Tennessee,13593,195.69
+2010,Cancer,Texas,36717,165.94
+2010,Cancer,Utah,2810,133.71
+2010,Cancer,Vermont,1392,183.25
+2010,Cancer,Virginia,14080,172.42
+2010,Cancer,Washington,11874,170.48
+2010,Cancer,West Virginia,4685,197.99
+2010,Cancer,Wisconsin,11279,174.5
+2010,Cancer,Wyoming,1016,172.6
+2011,Cancer,Alabama,10233,187.84
+2011,Cancer,Alaska,935,175.53
+2011,Cancer,Arizona,10690,148.53
+2011,Cancer,Arkansas,6497,191.07
+2011,Cancer,California,56449,151.98
+2011,Cancer,Colorado,7051,143.85
+2011,Cancer,Connecticut,6837,158.43
+2011,Cancer,Delaware,1906,179.83
+2011,Cancer,District of Columbia,1070,180.69
+2011,Cancer,Florida,41681,161.17
+2011,Cancer,Georgia,15602,170.34
+2011,Cancer,Hawaii,2278,138.09
+2011,Cancer,Idaho,2573,157.39
+2011,Cancer,Illinois,24007,175.01
+2011,Cancer,Indiana,13180,185.35
+2011,Cancer,Iowa,6481,173.12
+2011,Cancer,Kansas,5440,170.29
+2011,Cancer,Kentucky,9733,200.79
+2011,Cancer,Louisiana,9233,193.73
+2011,Cancer,Maine,3201,182.18
+2011,Cancer,Maryland,10249,166.06
+2011,Cancer,Massachusetts,12895,166.94
+2011,Cancer,Michigan,20420,177.75
+2011,Cancer,Minnesota,9489,160.77
+2011,Cancer,Mississippi,6278,197.43
+2011,Cancer,Missouri,12473,179.36
+2011,Cancer,Montana,2022,164.81
+2011,Cancer,Nebraska,3410,164.09
+2011,Cancer,Nevada,4606,170.18
+2011,Cancer,New Hampshire,2740,177.54
+2011,Cancer,New Jersey,16708,166.04
+2011,Cancer,New Mexico,3328,146.86
+2011,Cancer,New York,35469,160.59
+2011,Cancer,North Carolina,18284,175.04
+2011,Cancer,North Dakota,1321,161.04
+2011,Cancer,Ohio,25140,184.92
+2011,Cancer,Oklahoma,7997,191.05
+2011,Cancer,Oregon,7802,172.58
+2011,Cancer,Pennsylvania,28895,177.96
+2011,Cancer,Rhode Island,2170,167.64
+2011,Cancer,South Carolina,9543,181.95
+2011,Cancer,South Dakota,1665,169.68
+2011,Cancer,Tennessee,13562,189
+2011,Cancer,Texas,37351,162.26
+2011,Cancer,Utah,2746,125.7
+2011,Cancer,Vermont,1347,175.88
+2011,Cancer,Virginia,14376,170.78
+2011,Cancer,Washington,12002,166.09
+2011,Cancer,West Virginia,4782,200.13
+2011,Cancer,Wisconsin,11608,175.48
+2011,Cancer,Wyoming,936,155.97
+2012,Cancer,Alabama,10276,185.19
+2012,Cancer,Alaska,925,166.45
+2012,Cancer,Arizona,11085,148.64
+2012,Cancer,Arkansas,6540,189.05
+2012,Cancer,California,57676,150.85
+2012,Cancer,Colorado,7306,143.09
+2012,Cancer,Connecticut,6681,151.95
+2012,Cancer,Delaware,1935,177.02
+2012,Cancer,District of Columbia,1081,178.8
+2012,Cancer,Florida,42188,158.75
+2012,Cancer,Georgia,16021,169.06
+2012,Cancer,Hawaii,2284,134.54
+2012,Cancer,Idaho,2572,151.99
+2012,Cancer,Illinois,24562,175.63
+2012,Cancer,Indiana,13368,184.38
+2012,Cancer,Iowa,6438,168.56
+2012,Cancer,Kansas,5429,168.22
+2012,Cancer,Kentucky,10012,201.49
+2012,Cancer,Louisiana,9308,190.69
+2012,Cancer,Maine,3226,179.34
+2012,Cancer,Maryland,10525,165.64
+2012,Cancer,Massachusetts,12864,163.34
+2012,Cancer,Michigan,20496,174.78
+2012,Cancer,Minnesota,9424,155.87
+2012,Cancer,Mississippi,6499,200.36
+2012,Cancer,Missouri,12919,182.33
+2012,Cancer,Montana,1954,155.08
+2012,Cancer,Nebraska,3479,164.69
+2012,Cancer,Nevada,4610,163.55
+2012,Cancer,New Hampshire,2660,167.78
+2012,Cancer,New Jersey,16485,160.31
+2012,Cancer,New Mexico,3462,148.14
+2012,Cancer,New York,35882,159.44
+2012,Cancer,North Carolina,18405,170.23
+2012,Cancer,North Dakota,1253,150.66
+2012,Cancer,Ohio,25261,182.68
+2012,Cancer,Oklahoma,8040,189.86
+2012,Cancer,Oregon,7832,168.02
+2012,Cancer,Pennsylvania,28909,175.51
+2012,Cancer,Rhode Island,2148,163.47
+2012,Cancer,South Carolina,9728,178.8
+2012,Cancer,South Dakota,1630,163.02
+2012,Cancer,Tennessee,13765,187.56
+2012,Cancer,Texas,38142,160.27
+2012,Cancer,Utah,2876,128.21
+2012,Cancer,Vermont,1325,165.01
+2012,Cancer,Virginia,14294,165.01
+2012,Cancer,Washington,11952,161.38
+2012,Cancer,West Virginia,4684,191.8
+2012,Cancer,Wisconsin,11252,166.26
+2012,Cancer,Wyoming,955,154.2
+2013,Cancer,Alabama,10328,182.17
+2013,Cancer,Alaska,1016,171.95
+2013,Cancer,Arizona,11347,146.96
+2013,Cancer,Arkansas,6688,190.03
+2013,Cancer,California,57714,146.98
+2013,Cancer,Colorado,7357,139.15
+2013,Cancer,Connecticut,6619,148.39
+2013,Cancer,Delaware,1905,167.63
+2013,Cancer,District of Columbia,1095,178.21
+2013,Cancer,Florida,42735,155.91
+2013,Cancer,Georgia,16417,167.65
+2013,Cancer,Hawaii,2332,135.53
+2013,Cancer,Idaho,2707,156.2
+2013,Cancer,Illinois,24491,171.9
+2013,Cancer,Indiana,13258,179.52
+2013,Cancer,Iowa,6509,168.43
+2013,Cancer,Kansas,5379,163.05
+2013,Cancer,Kentucky,10085,199.31
+2013,Cancer,Louisiana,9419,188.51
+2013,Cancer,Maine,3227,175.19
+2013,Cancer,Maryland,10609,162.92
+2013,Cancer,Massachusetts,12858,159.57
+2013,Cancer,Michigan,20367,170.46
+2013,Cancer,Minnesota,9601,155.41
+2013,Cancer,Mississippi,6527,196.95
+2013,Cancer,Missouri,12955,179.4
+2013,Cancer,Montana,1997,154.14
+2013,Cancer,Nebraska,3459,161.33
+2013,Cancer,Nevada,4817,164.75
+2013,Cancer,New Hampshire,2584,157.95
+2013,Cancer,New Jersey,16315,156.24
+2013,Cancer,New Mexico,3482,145.37
+2013,Cancer,New York,35738,155.85
+2013,Cancer,North Carolina,18589,167.63
+2013,Cancer,North Dakota,1286,151.77
+2013,Cancer,Ohio,24986,177.63
+2013,Cancer,Oklahoma,8039,185.67
+2013,Cancer,Oregon,7799,163.36
+2013,Cancer,Pennsylvania,28512,170.63
+2013,Cancer,Rhode Island,2326,174.64
+2013,Cancer,South Carolina,9745,173.99
+2013,Cancer,South Dakota,1577,154.5
+2013,Cancer,Tennessee,13953,185.45
+2013,Cancer,Texas,38412,156.91
+2013,Cancer,Utah,2971,127.58
+2013,Cancer,Vermont,1318,163.39
+2013,Cancer,Virginia,14414,162.01
+2013,Cancer,Washington,11928,156.1
+2013,Cancer,West Virginia,4718,190.82
+2013,Cancer,Wisconsin,11425,165.15
+2013,Cancer,Wyoming,946,148.16
