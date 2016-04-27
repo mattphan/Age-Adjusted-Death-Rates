@@ -1,7 +1,7 @@
 #' @title Accidents
 #' @param numeric value
 #' @return Colorpleth of Accident related deaths
-#'
+#' @export
 #'
 
 Accidents = function(x)

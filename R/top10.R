@@ -1,7 +1,7 @@
 #' @title top10
 #' @param numeric value
 #' @return Colorpleth of the top 10 types of death
-#'
+#' @export
 #'
 
 top10 = function(x)

@@ -1,7 +1,7 @@
 #' @title alzheimer
 #' @param numeric value
 #' @return Colorpleth of Alzheimer related deaths
-#'
+#' @export
 #'
 
 alzheimer = function(x)

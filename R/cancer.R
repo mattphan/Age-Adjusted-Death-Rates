@@ -1,7 +1,7 @@
 #' @title cancer
 #' @param numeric value
 #' @return Colorpleth of cancer related deaths
-#'
+#' @export
 #'
 
 cancer = function(x)
