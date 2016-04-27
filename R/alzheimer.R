@@ -1,3 +1,9 @@
+#' @title alzheimer
+#' @param numeric value
+#' @return Colorpleth of Alzheimer related deaths
+#'
+#'
+
 alzheimer = function(x)
 {
   

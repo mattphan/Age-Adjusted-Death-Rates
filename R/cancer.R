@@ -1,3 +1,9 @@
+#' @title cancer
+#' @param numeric value
+#' @return Colorpleth of cancer related deaths
+#'
+#'
+
 cancer = function(x)
 {
   

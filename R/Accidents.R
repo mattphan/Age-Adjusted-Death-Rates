@@ -1,3 +1,9 @@
+#' @title Accidents
+#' @param numeric value
+#' @return Colorpleth of Accident related deaths
+#'
+#'
+
 Accidents = function(x)
 {
   
