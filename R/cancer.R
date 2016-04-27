@@ -26,10 +26,12 @@ cancer = function(x)
                       fill="#ffffff", color="#ffffff", size=0.15)
   
   gg <- gg + geom_map(data=cancerwYear, map=us,
-                      aes(fill=DEATHS, map_id=region),
+                      aes(fill=AADR, map_id=region),
                       color="#ffffff", size=0.15)
   
-  gg <- gg + labs(x=NULL, y=NULL) + ggtitle("Cancer Deaths")
+  gg <- gg + scale_fill_distiller(palette = "Greens", direction = 1)
+  
+  gg <- gg + labs(x=NULL, y=NULL) + ggtitle("Cancer Deaths per 100,000")
   
   gg <- gg + coord_map("albers", lat0 = 39, lat1 = 45)
   

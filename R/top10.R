@@ -26,10 +26,12 @@ top10 = function(x)
                       fill="#ffffff", color="#ffffff", size=0.15)
   
   gg <- gg + geom_map(data=top10wYear, map=us,
-                      aes(fill=DEATHS, map_id=region),
+                      aes(fill=AADR, map_id=region),
                       color="#ffffff", size=0.15)
   
-  gg <- gg + labs(x=NULL, y=NULL) + ggtitle("Top 10 Deaths")
+  gg <- gg + scale_fill_distiller(palette = "YlGn", direction = 1)
+  
+  gg <- gg + labs(x=NULL, y=NULL) + ggtitle("Top 10 Deaths per 100,000")
   
   gg <- gg + coord_map("albers", lat0 = 39, lat1 = 45)
   
