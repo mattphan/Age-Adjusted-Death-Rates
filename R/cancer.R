@@ -23,7 +23,7 @@ cancer = function(x)
                       aes(fill=DEATHS, map_id=region),
                       color="#ffffff", size=0.15)
   
-  gg <- gg + labs(x=NULL, y=NULL) + ggtitle("Cancer Related Deaths")
+  gg <- gg + labs(x=NULL, y=NULL) + ggtitle("Cancer Deaths")
   
   gg <- gg + coord_map("albers", lat0 = 39, lat1 = 45)
   
