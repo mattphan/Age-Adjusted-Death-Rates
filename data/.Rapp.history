@@ -1,2 +1,4 @@
 load("/Users/mattphan/Documents/Workspace/AgeAdjustedDeathRates/data/Age.adjusted_Death_Rates.simple.rda")
 load("/Users/mattphan/Documents/Workspace/AgeAdjustedDeathRates/data/Age.adjusted_Death_Rates.simple.rda")
+load("/Users/mattphan/Documents/Workspace/AgeAdjustedDeathRates/data/Age.adjusted_Death_Rates.simple.rda")
+save.image()

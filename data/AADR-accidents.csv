@@ -1,0 +1,766 @@
+YEAR,CAUSE_NAME,region,DEATHS,AADR
+1999,Unintentional Injuries,Alabama,2313,52.17
+1999,Unintentional Injuries,Alaska,294,55.91
+1999,Unintentional Injuries,Arizona,2214,44.79
+1999,Unintentional Injuries,Arkansas,1287,47.56
+1999,Unintentional Injuries,California,9198,28.71
+1999,Unintentional Injuries,Colorado,1519,38.98
+1999,Unintentional Injuries,Connecticut,1034,29.31
+1999,Unintentional Injuries,Delaware,267,35.25
+1999,Unintentional Injuries,District of Columbia,161,28.38
+1999,Unintentional Injuries,Florida,5961,35.73
+1999,Unintentional Injuries,Georgia,3078,41.52
+1999,Unintentional Injuries,Hawaii,293,24.33
+1999,Unintentional Injuries,Idaho,597,48.32
+1999,Unintentional Injuries,Illinois,4125,33.69
+1999,Unintentional Injuries,Indiana,2309,38.43
+1999,Unintentional Injuries,Iowa,1123,35.24
+1999,Unintentional Injuries,Kansas,1126,40.68
+1999,Unintentional Injuries,Kentucky,1730,43.29
+1999,Unintentional Injuries,Louisiana,1940,44.66
+1999,Unintentional Injuries,Maine,458,34.87
+1999,Unintentional Injuries,Maryland,1296,25.93
+1999,Unintentional Injuries,Massachusetts,1303,19.61
+1999,Unintentional Injuries,Michigan,3188,32.75
+1999,Unintentional Injuries,Minnesota,1772,35.75
+1999,Unintentional Injuries,Mississippi,1642,58.85
+1999,Unintentional Injuries,Missouri,2465,43.22
+1999,Unintentional Injuries,Montana,461,50.25
+1999,Unintentional Injuries,Nebraska,668,37.34
+1999,Unintentional Injuries,Nevada,710,38.48
+1999,Unintentional Injuries,New Hampshire,329,27.53
+1999,Unintentional Injuries,New Jersey,2227,26.22
+1999,Unintentional Injuries,New Mexico,969,55.86
+1999,Unintentional Injuries,New York,4797,25.15
+1999,Unintentional Injuries,North Carolina,3290,42.14
+1999,Unintentional Injuries,North Dakota,267,38.42
+1999,Unintentional Injuries,Ohio,3630,31.82
+1999,Unintentional Injuries,Oklahoma,1609,46.26
+1999,Unintentional Injuries,Oregon,1199,34.67
+1999,Unintentional Injuries,Pennsylvania,4614,35.27
+1999,Unintentional Injuries,Rhode Island,243,21.47
+1999,Unintentional Injuries,South Carolina,1901,49.18
+1999,Unintentional Injuries,South Dakota,351,44.83
+1999,Unintentional Injuries,Tennessee,2677,47.78
+1999,Unintentional Injuries,Texas,7227,37.56
+1999,Unintentional Injuries,Utah,650,33.37
+1999,Unintentional Injuries,Vermont,209,34.23
+1999,Unintentional Injuries,Virginia,2214,33.17
+1999,Unintentional Injuries,Washington,1914,33.29
+1999,Unintentional Injuries,West Virginia,798,41.97
+1999,Unintentional Injuries,Wisconsin,1955,35.62
+1999,Unintentional Injuries,Wyoming,258,52.83
+2000,Unintentional Injuries,Alabama,2093,47.02
+2000,Unintentional Injuries,Alaska,343,64.48
+2000,Unintentional Injuries,Arizona,2326,46.25
+2000,Unintentional Injuries,Arkansas,1267,46.46
+2000,Unintentional Injuries,California,8577,26.46
+2000,Unintentional Injuries,Colorado,1702,42.55
+2000,Unintentional Injuries,Connecticut,1175,32.81
+2000,Unintentional Injuries,Delaware,290,37.54
+2000,Unintentional Injuries,District of Columbia,204,35.73
+2000,Unintentional Injuries,Florida,6267,37.29
+2000,Unintentional Injuries,Georgia,3103,40.83
+2000,Unintentional Injuries,Hawaii,343,28.2
+2000,Unintentional Injuries,Idaho,518,41.45
+2000,Unintentional Injuries,Illinois,4041,32.77
+2000,Unintentional Injuries,Indiana,2139,35.37
+2000,Unintentional Injuries,Iowa,1070,33.43
+2000,Unintentional Injuries,Kansas,1054,38.04
+2000,Unintentional Injuries,Kentucky,1838,45.65
+2000,Unintentional Injuries,Louisiana,2006,45.88
+2000,Unintentional Injuries,Maine,407,30.87
+2000,Unintentional Injuries,Maryland,1182,23.25
+2000,Unintentional Injuries,Massachusetts,1357,20.21
+2000,Unintentional Injuries,Michigan,3220,32.87
+2000,Unintentional Injuries,Minnesota,1711,34.28
+2000,Unintentional Injuries,Mississippi,1653,58.88
+2000,Unintentional Injuries,Missouri,2398,41.9
+2000,Unintentional Injuries,Montana,495,53.94
+2000,Unintentional Injuries,Nebraska,640,35.3
+2000,Unintentional Injuries,Nevada,730,38.65
+2000,Unintentional Injuries,New Hampshire,321,26.27
+2000,Unintentional Injuries,New Jersey,2284,26.74
+2000,Unintentional Injuries,New Mexico,995,56.8
+2000,Unintentional Injuries,New York,4244,22.04
+2000,Unintentional Injuries,North Carolina,3525,44.68
+2000,Unintentional Injuries,North Dakota,248,35.29
+2000,Unintentional Injuries,Ohio,3492,30.53
+2000,Unintentional Injuries,Oklahoma,1566,44.89
+2000,Unintentional Injuries,Oregon,1248,35.75
+2000,Unintentional Injuries,Pennsylvania,4583,35.24
+2000,Unintentional Injuries,Rhode Island,235,20.45
+2000,Unintentional Injuries,South Carolina,1974,50.03
+2000,Unintentional Injuries,South Dakota,321,41.16
+2000,Unintentional Injuries,Tennessee,2743,48.54
+2000,Unintentional Injuries,Texas,7407,37.64
+2000,Unintentional Injuries,Utah,665,34.21
+2000,Unintentional Injuries,Vermont,234,38.05
+2000,Unintentional Injuries,Virginia,2396,35.35
+2000,Unintentional Injuries,Washington,2049,35.46
+2000,Unintentional Injuries,West Virginia,817,43.23
+2000,Unintentional Injuries,Wisconsin,2159,38.92
+2000,Unintentional Injuries,Wyoming,245,50.78
+2001,Unintentional Injuries,Alabama,2211,49.45
+2001,Unintentional Injuries,Alaska,345,60.54
+2001,Unintentional Injuries,Arizona,2475,47.59
+2001,Unintentional Injuries,Arkansas,1277,46.52
+2001,Unintentional Injuries,California,8132,24.54
+2001,Unintentional Injuries,Colorado,1720,41.64
+2001,Unintentional Injuries,Connecticut,1056,29.47
+2001,Unintentional Injuries,Delaware,290,36.61
+2001,Unintentional Injuries,District of Columbia,223,38.37
+2001,Unintentional Injuries,Florida,6969,40.49
+2001,Unintentional Injuries,Georgia,3396,43.84
+2001,Unintentional Injuries,Hawaii,372,29.83
+2001,Unintentional Injuries,Idaho,568,44.15
+2001,Unintentional Injuries,Illinois,4077,32.81
+2001,Unintentional Injuries,Indiana,2185,35.79
+2001,Unintentional Injuries,Iowa,1051,32.45
+2001,Unintentional Injuries,Kansas,1156,41.39
+2001,Unintentional Injuries,Kentucky,1990,49.05
+2001,Unintentional Injuries,Louisiana,2029,46.45
+2001,Unintentional Injuries,Maine,490,36.32
+2001,Unintentional Injuries,Maryland,1339,25.77
+2001,Unintentional Injuries,Massachusetts,1506,22.19
+2001,Unintentional Injuries,Michigan,3291,33.25
+2001,Unintentional Injuries,Minnesota,1797,35.39
+2001,Unintentional Injuries,Mississippi,1571,55.98
+2001,Unintentional Injuries,Missouri,2455,42.46
+2001,Unintentional Injuries,Montana,468,50.13
+2001,Unintentional Injuries,Nebraska,633,34.78
+2001,Unintentional Injuries,Nevada,739,37.04
+2001,Unintentional Injuries,New Hampshire,374,30.25
+2001,Unintentional Injuries,New Jersey,2405,27.8
+2001,Unintentional Injuries,New Mexico,1020,57.68
+2001,Unintentional Injuries,New York,4982,25.65
+2001,Unintentional Injuries,North Carolina,3438,42.64
+2001,Unintentional Injuries,North Dakota,238,33.85
+2001,Unintentional Injuries,Ohio,3857,33.42
+2001,Unintentional Injuries,Oklahoma,1700,48.49
+2001,Unintentional Injuries,Oregon,1313,36.89
+2001,Unintentional Injuries,Pennsylvania,4552,34.6
+2001,Unintentional Injuries,Rhode Island,293,25.34
+2001,Unintentional Injuries,South Carolina,1960,49.04
+2001,Unintentional Injuries,South Dakota,382,47.25
+2001,Unintentional Injuries,Tennessee,2709,47.27
+2001,Unintentional Injuries,Texas,7920,39.7
+2001,Unintentional Injuries,Utah,643,32.48
+2001,Unintentional Injuries,Vermont,230,36.81
+2001,Unintentional Injuries,Virginia,2432,35.23
+2001,Unintentional Injuries,Washington,2072,35.24
+2001,Unintentional Injuries,West Virginia,834,44.72
+2001,Unintentional Injuries,Wisconsin,2100,37.48
+2001,Unintentional Injuries,Wyoming,272,55.49
+2002,Unintentional Injuries,Alabama,2228,49.59
+2002,Unintentional Injuries,Alaska,346,59.16
+2002,Unintentional Injuries,Arizona,2577,48.6
+2002,Unintentional Injuries,Arkansas,1311,47.59
+2002,Unintentional Injuries,California,10107,30.07
+2002,Unintentional Injuries,Colorado,1812,43.12
+2002,Unintentional Injuries,Connecticut,1182,32.51
+2002,Unintentional Injuries,Delaware,292,36.4
+2002,Unintentional Injuries,District of Columbia,200,34.55
+2002,Unintentional Injuries,Florida,7396,42.02
+2002,Unintentional Injuries,Georgia,3333,42.26
+2002,Unintentional Injuries,Hawaii,393,30.85
+2002,Unintentional Injuries,Idaho,611,47.06
+2002,Unintentional Injuries,Illinois,4222,33.81
+2002,Unintentional Injuries,Indiana,2148,34.89
+2002,Unintentional Injuries,Iowa,1093,33.58
+2002,Unintentional Injuries,Kansas,1139,40.79
+2002,Unintentional Injuries,Kentucky,2090,51.26
+2002,Unintentional Injuries,Louisiana,2115,48.1
+2002,Unintentional Injuries,Maine,511,38.05
+2002,Unintentional Injuries,Maryland,1332,25.24
+2002,Unintentional Injuries,Massachusetts,1413,20.74
+2002,Unintentional Injuries,Michigan,3285,32.99
+2002,Unintentional Injuries,Minnesota,1928,37.55
+2002,Unintentional Injuries,Mississippi,1642,58.47
+2002,Unintentional Injuries,Missouri,2641,45.55
+2002,Unintentional Injuries,Montana,524,55.57
+2002,Unintentional Injuries,Nebraska,762,41.66
+2002,Unintentional Injuries,Nevada,860,41.73
+2002,Unintentional Injuries,New Hampshire,357,28.48
+2002,Unintentional Injuries,New Jersey,2599,29.75
+2002,Unintentional Injuries,New Mexico,1105,61.41
+2002,Unintentional Injuries,New York,4663,23.85
+2002,Unintentional Injuries,North Carolina,3700,45.29
+2002,Unintentional Injuries,North Dakota,246,35.13
+2002,Unintentional Injuries,Ohio,4146,35.79
+2002,Unintentional Injuries,Oklahoma,1580,44.93
+2002,Unintentional Injuries,Oregon,1397,38.39
+2002,Unintentional Injuries,Pennsylvania,4728,35.9
+2002,Unintentional Injuries,Rhode Island,277,23.43
+2002,Unintentional Injuries,South Carolina,1972,48.74
+2002,Unintentional Injuries,South Dakota,348,43.53
+2002,Unintentional Injuries,Tennessee,2744,47.73
+2002,Unintentional Injuries,Texas,8232,40.44
+2002,Unintentional Injuries,Utah,714,35.82
+2002,Unintentional Injuries,Vermont,240,37.76
+2002,Unintentional Injuries,Virginia,2479,35.22
+2002,Unintentional Injuries,Washington,2203,36.82
+2002,Unintentional Injuries,West Virginia,956,50.89
+2002,Unintentional Injuries,Wisconsin,2274,40.06
+2002,Unintentional Injuries,Wyoming,289,58.14
+2003,Unintentional Injuries,Alabama,2179,48.27
+2003,Unintentional Injuries,Alaska,321,55.39
+2003,Unintentional Injuries,Arizona,2697,49.79
+2003,Unintentional Injuries,Arkansas,1304,46.88
+2003,Unintentional Injuries,California,10471,30.69
+2003,Unintentional Injuries,Colorado,1806,42.37
+2003,Unintentional Injuries,Connecticut,1112,30.22
+2003,Unintentional Injuries,Delaware,287,34.85
+2003,Unintentional Injuries,District of Columbia,233,40.84
+2003,Unintentional Injuries,Florida,7919,44.18
+2003,Unintentional Injuries,Georgia,3528,44.23
+2003,Unintentional Injuries,Hawaii,415,31.89
+2003,Unintentional Injuries,Idaho,605,45.63
+2003,Unintentional Injuries,Illinois,3942,31.45
+2003,Unintentional Injuries,Indiana,2196,35.39
+2003,Unintentional Injuries,Iowa,1164,35.37
+2003,Unintentional Injuries,Kansas,1089,38.55
+2003,Unintentional Injuries,Kentucky,2270,55.23
+2003,Unintentional Injuries,Louisiana,2208,49.77
+2003,Unintentional Injuries,Maine,516,37.97
+2003,Unintentional Injuries,Maryland,1432,26.73
+2003,Unintentional Injuries,Massachusetts,1421,20.73
+2003,Unintentional Injuries,Michigan,3324,33.03
+2003,Unintentional Injuries,Minnesota,1912,36.69
+2003,Unintentional Injuries,Mississippi,1656,58.78
+2003,Unintentional Injuries,Missouri,2786,47.56
+2003,Unintentional Injuries,Montana,518,54.8
+2003,Unintentional Injuries,Nebraska,696,37.96
+2003,Unintentional Injuries,Nevada,911,41.86
+2003,Unintentional Injuries,New Hampshire,405,31.52
+2003,Unintentional Injuries,New Jersey,2371,27.02
+2003,Unintentional Injuries,New Mexico,1227,67.32
+2003,Unintentional Injuries,New York,4708,23.87
+2003,Unintentional Injuries,North Carolina,3835,46.31
+2003,Unintentional Injuries,North Dakota,282,39.91
+2003,Unintentional Injuries,Ohio,3757,32.16
+2003,Unintentional Injuries,Oklahoma,1748,49.86
+2003,Unintentional Injuries,Oregon,1401,38.23
+2003,Unintentional Injuries,Pennsylvania,5014,37.91
+2003,Unintentional Injuries,Rhode Island,393,33.89
+2003,Unintentional Injuries,South Carolina,1941,47.52
+2003,Unintentional Injuries,South Dakota,406,50.54
+2003,Unintentional Injuries,Tennessee,3004,51.76
+2003,Unintentional Injuries,Texas,8425,40.77
+2003,Unintentional Injuries,Utah,702,34.73
+2003,Unintentional Injuries,Vermont,235,36.28
+2003,Unintentional Injuries,Virginia,2644,37.04
+2003,Unintentional Injuries,Washington,2239,36.94
+2003,Unintentional Injuries,West Virginia,1004,53.71
+2003,Unintentional Injuries,Wisconsin,2345,40.99
+2003,Unintentional Injuries,Wyoming,273,55.12
+2004,Unintentional Injuries,Alabama,2403,52.98
+2004,Unintentional Injuries,Alaska,326,56.02
+2004,Unintentional Injuries,Arizona,2770,49.3
+2004,Unintentional Injuries,Arkansas,1406,50.64
+2004,Unintentional Injuries,California,10633,30.78
+2004,Unintentional Injuries,Colorado,1810,42.14
+2004,Unintentional Injuries,Connecticut,1261,33.95
+2004,Unintentional Injuries,Delaware,294,35.4
+2004,Unintentional Injuries,District of Columbia,219,38.44
+2004,Unintentional Injuries,Florida,8229,44.66
+2004,Unintentional Injuries,Georgia,3667,45.01
+2004,Unintentional Injuries,Hawaii,390,29.6
+2004,Unintentional Injuries,Idaho,593,43.64
+2004,Unintentional Injuries,Illinois,4133,32.78
+2004,Unintentional Injuries,Indiana,2395,38.35
+2004,Unintentional Injuries,Iowa,1108,33.42
+2004,Unintentional Injuries,Kansas,1144,40.57
+2004,Unintentional Injuries,Kentucky,2260,54.77
+2004,Unintentional Injuries,Louisiana,2300,51.38
+2004,Unintentional Injuries,Maine,480,35.54
+2004,Unintentional Injuries,Maryland,1412,26.01
+2004,Unintentional Injuries,Massachusetts,1366,19.87
+2004,Unintentional Injuries,Michigan,3312,32.83
+2004,Unintentional Injuries,Minnesota,1867,35.51
+2004,Unintentional Injuries,Mississippi,1703,59.9
+2004,Unintentional Injuries,Missouri,2728,46.4
+2004,Unintentional Injuries,Montana,535,55.26
+2004,Unintentional Injuries,Nebraska,743,39.72
+2004,Unintentional Injuries,Nevada,1021,45.2
+2004,Unintentional Injuries,New Hampshire,445,34.29
+2004,Unintentional Injuries,New Jersey,2324,26.29
+2004,Unintentional Injuries,New Mexico,1223,65.98
+2004,Unintentional Injuries,New York,4530,22.85
+2004,Unintentional Injuries,North Carolina,4019,47.69
+2004,Unintentional Injuries,North Dakota,274,38.09
+2004,Unintentional Injuries,Ohio,4234,36.09
+2004,Unintentional Injuries,Oklahoma,1947,55.04
+2004,Unintentional Injuries,Oregon,1444,38.86
+2004,Unintentional Injuries,Pennsylvania,5200,39.11
+2004,Unintentional Injuries,Rhode Island,298,24.8
+2004,Unintentional Injuries,South Carolina,2094,50.1
+2004,Unintentional Injuries,South Dakota,416,50.86
+2004,Unintentional Injuries,Tennessee,3156,53.55
+2004,Unintentional Injuries,Texas,8323,39.72
+2004,Unintentional Injuries,Utah,697,33.39
+2004,Unintentional Injuries,Vermont,253,39.36
+2004,Unintentional Injuries,Virginia,2630,36.22
+2004,Unintentional Injuries,Washington,2341,37.89
+2004,Unintentional Injuries,West Virginia,1110,59
+2004,Unintentional Injuries,Wisconsin,2303,39.67
+2004,Unintentional Injuries,Wyoming,243,47.2
+2005,Unintentional Injuries,Alabama,2395,51.9
+2005,Unintentional Injuries,Alaska,313,50.77
+2005,Unintentional Injuries,Arizona,3150,54.72
+2005,Unintentional Injuries,Arkansas,1329,46.98
+2005,Unintentional Injuries,California,11129,31.7
+2005,Unintentional Injuries,Colorado,1947,44.13
+2005,Unintentional Injuries,Connecticut,1134,30.25
+2005,Unintentional Injuries,Delaware,293,34.45
+2005,Unintentional Injuries,District of Columbia,207,35.79
+2005,Unintentional Injuries,Florida,8868,47.11
+2005,Unintentional Injuries,Georgia,3762,45.01
+2005,Unintentional Injuries,Hawaii,436,32.03
+2005,Unintentional Injuries,Idaho,606,43.7
+2005,Unintentional Injuries,Illinois,4182,32.96
+2005,Unintentional Injuries,Indiana,2480,39.26
+2005,Unintentional Injuries,Iowa,1202,36.7
+2005,Unintentional Injuries,Kansas,1149,40.61
+2005,Unintentional Injuries,Kentucky,2405,57.38
+2005,Unintentional Injuries,Louisiana,3072,68.5
+2005,Unintentional Injuries,Maine,579,41.7
+2005,Unintentional Injuries,Maryland,1376,24.96
+2005,Unintentional Injuries,Massachusetts,1907,28.04
+2005,Unintentional Injuries,Michigan,3451,34.03
+2005,Unintentional Injuries,Minnesota,1922,36.15
+2005,Unintentional Injuries,Mississippi,1936,67.13
+2005,Unintentional Injuries,Missouri,2848,47.82
+2005,Unintentional Injuries,Montana,524,53.15
+2005,Unintentional Injuries,Nebraska,704,37.41
+2005,Unintentional Injuries,Nevada,1104,47.02
+2005,Unintentional Injuries,New Hampshire,477,36.26
+2005,Unintentional Injuries,New Jersey,2561,28.76
+2005,Unintentional Injuries,New Mexico,1267,66.99
+2005,Unintentional Injuries,New York,4645,23.27
+2005,Unintentional Injuries,North Carolina,4123,47.86
+2005,Unintentional Injuries,North Dakota,287,39.66
+2005,Unintentional Injuries,Ohio,4438,37.7
+2005,Unintentional Injuries,Oklahoma,2005,56.1
+2005,Unintentional Injuries,Oregon,1469,38.83
+2005,Unintentional Injuries,Pennsylvania,5446,40.79
+2005,Unintentional Injuries,Rhode Island,334,27.58
+2005,Unintentional Injuries,South Carolina,2272,53.44
+2005,Unintentional Injuries,South Dakota,402,48.69
+2005,Unintentional Injuries,Tennessee,3147,52.6
+2005,Unintentional Injuries,Texas,8598,40.44
+2005,Unintentional Injuries,Utah,743,34.57
+2005,Unintentional Injuries,Vermont,272,42.14
+2005,Unintentional Injuries,Virginia,2638,35.6
+2005,Unintentional Injuries,Washington,2543,40.43
+2005,Unintentional Injuries,West Virginia,940,49.57
+2005,Unintentional Injuries,Wisconsin,2490,42.77
+2005,Unintentional Injuries,Wyoming,302,58.72
+2006,Unintentional Injuries,Alabama,2506,53.99
+2006,Unintentional Injuries,Alaska,316,52.3
+2006,Unintentional Injuries,Arizona,3352,55.97
+2006,Unintentional Injuries,Arkansas,1415,49.4
+2006,Unintentional Injuries,California,11375,32.05
+2006,Unintentional Injuries,Colorado,1917,42.5
+2006,Unintentional Injuries,Connecticut,1302,34.55
+2006,Unintentional Injuries,Delaware,329,37.96
+2006,Unintentional Injuries,District of Columbia,224,39.36
+2006,Unintentional Injuries,Florida,8917,46.45
+2006,Unintentional Injuries,Georgia,3879,45.11
+2006,Unintentional Injuries,Hawaii,441,31.66
+2006,Unintentional Injuries,Idaho,682,47.45
+2006,Unintentional Injuries,Illinois,4451,34.91
+2006,Unintentional Injuries,Indiana,2480,38.92
+2006,Unintentional Injuries,Iowa,1188,35.68
+2006,Unintentional Injuries,Kansas,1198,41.72
+2006,Unintentional Injuries,Kentucky,2446,57.94
+2006,Unintentional Injuries,Louisiana,2422,56.79
+2006,Unintentional Injuries,Maine,572,40.78
+2006,Unintentional Injuries,Maryland,1456,26.12
+2006,Unintentional Injuries,Massachusetts,2214,32.31
+2006,Unintentional Injuries,Michigan,3590,35.17
+2006,Unintentional Injuries,Minnesota,1919,35.44
+2006,Unintentional Injuries,Mississippi,1856,64.66
+2006,Unintentional Injuries,Missouri,3009,50.08
+2006,Unintentional Injuries,Montana,558,55.67
+2006,Unintentional Injuries,Nebraska,683,36.14
+2006,Unintentional Injuries,Nevada,1091,44.26
+2006,Unintentional Injuries,New Hampshire,460,34.13
+2006,Unintentional Injuries,New Jersey,2590,29.02
+2006,Unintentional Injuries,New Mexico,1297,67.63
+2006,Unintentional Injuries,New York,5235,26.2
+2006,Unintentional Injuries,North Carolina,4156,46.94
+2006,Unintentional Injuries,North Dakota,275,38.92
+2006,Unintentional Injuries,Ohio,4821,40.51
+2006,Unintentional Injuries,Oklahoma,2039,56.6
+2006,Unintentional Injuries,Oregon,1586,40.82
+2006,Unintentional Injuries,Pennsylvania,5299,39.47
+2006,Unintentional Injuries,Rhode Island,434,36.54
+2006,Unintentional Injuries,South Carolina,2315,53.3
+2006,Unintentional Injuries,South Dakota,452,53.42
+2006,Unintentional Injuries,Tennessee,3307,54.25
+2006,Unintentional Injuries,Texas,9140,41.64
+2006,Unintentional Injuries,Utah,715,31.61
+2006,Unintentional Injuries,Vermont,301,45.75
+2006,Unintentional Injuries,Virginia,2703,35.84
+2006,Unintentional Injuries,Washington,2679,41.46
+2006,Unintentional Injuries,West Virginia,1177,62.37
+2006,Unintentional Injuries,Wisconsin,2524,42.74
+2006,Unintentional Injuries,Wyoming,306,58.88
+2007,Unintentional Injuries,Alabama,2542,53.8
+2007,Unintentional Injuries,Alaska,354,56.35
+2007,Unintentional Injuries,Arizona,3161,51.85
+2007,Unintentional Injuries,Arkansas,1391,47.79
+2007,Unintentional Injuries,California,11614,32.29
+2007,Unintentional Injuries,Colorado,2056,44.79
+2007,Unintentional Injuries,Connecticut,1343,35.4
+2007,Unintentional Injuries,Delaware,309,34.83
+2007,Unintentional Injuries,District of Columbia,193,33.72
+2007,Unintentional Injuries,Florida,9113,46.93
+2007,Unintentional Injuries,Georgia,4012,45.37
+2007,Unintentional Injuries,Hawaii,470,33.43
+2007,Unintentional Injuries,Idaho,641,43.36
+2007,Unintentional Injuries,Illinois,4367,33.9
+2007,Unintentional Injuries,Indiana,2499,38.84
+2007,Unintentional Injuries,Iowa,1252,37.46
+2007,Unintentional Injuries,Kansas,1205,41.4
+2007,Unintentional Injuries,Kentucky,2372,55.57
+2007,Unintentional Injuries,Louisiana,2466,56.84
+2007,Unintentional Injuries,Maine,584,41.59
+2007,Unintentional Injuries,Maryland,1480,26.19
+2007,Unintentional Injuries,Massachusetts,2139,30.99
+2007,Unintentional Injuries,Michigan,3764,36.48
+2007,Unintentional Injuries,Minnesota,2066,37.54
+2007,Unintentional Injuries,Mississippi,1808,62.2
+2007,Unintentional Injuries,Missouri,2975,48.79
+2007,Unintentional Injuries,Montana,614,60.27
+2007,Unintentional Injuries,Nebraska,674,35.81
+2007,Unintentional Injuries,Nevada,1212,48.05
+2007,Unintentional Injuries,New Hampshire,527,38.95
+2007,Unintentional Injuries,New Jersey,2425,26.91
+2007,Unintentional Injuries,New Mexico,1329,67.7
+2007,Unintentional Injuries,New York,5160,25.65
+2007,Unintentional Injuries,North Carolina,4389,48.27
+2007,Unintentional Injuries,North Dakota,279,38.87
+2007,Unintentional Injuries,Ohio,4922,41.29
+2007,Unintentional Injuries,Oklahoma,2149,58.81
+2007,Unintentional Injuries,Oregon,1646,41.79
+2007,Unintentional Injuries,Pennsylvania,5568,40.78
+2007,Unintentional Injuries,Rhode Island,416,34.66
+2007,Unintentional Injuries,South Carolina,2364,53.18
+2007,Unintentional Injuries,South Dakota,366,42.47
+2007,Unintentional Injuries,Tennessee,3257,52.44
+2007,Unintentional Injuries,Texas,9392,42.02
+2007,Unintentional Injuries,Utah,811,35.58
+2007,Unintentional Injuries,Vermont,303,44.93
+2007,Unintentional Injuries,Virginia,2931,38.26
+2007,Unintentional Injuries,Washington,2637,40.2
+2007,Unintentional Injuries,West Virginia,1241,65.84
+2007,Unintentional Injuries,Wisconsin,2619,44.03
+2007,Unintentional Injuries,Wyoming,299,56.46
+2008,Unintentional Injuries,Alabama,2509,52.52
+2008,Unintentional Injuries,Alaska,332,54.08
+2008,Unintentional Injuries,Arizona,2956,47.28
+2008,Unintentional Injuries,Arkansas,1477,50.55
+2008,Unintentional Injuries,California,10761,29.5
+2008,Unintentional Injuries,Colorado,2172,46.28
+2008,Unintentional Injuries,Connecticut,1386,35.69
+2008,Unintentional Injuries,Delaware,352,39.58
+2008,Unintentional Injuries,District of Columbia,160,27.2
+2008,Unintentional Injuries,Florida,8939,45.29
+2008,Unintentional Injuries,Georgia,3774,41.99
+2008,Unintentional Injuries,Hawaii,406,28.21
+2008,Unintentional Injuries,Idaho,649,43.16
+2008,Unintentional Injuries,Illinois,4218,32.6
+2008,Unintentional Injuries,Indiana,2558,39.45
+2008,Unintentional Injuries,Iowa,1266,37.81
+2008,Unintentional Injuries,Kansas,1174,40.01
+2008,Unintentional Injuries,Kentucky,2379,55.2
+2008,Unintentional Injuries,Louisiana,2409,54.88
+2008,Unintentional Injuries,Maine,628,43.41
+2008,Unintentional Injuries,Maryland,1465,25.59
+2008,Unintentional Injuries,Massachusetts,2040,28.96
+2008,Unintentional Injuries,Michigan,3685,35.68
+2008,Unintentional Injuries,Minnesota,2010,36.18
+2008,Unintentional Injuries,Mississippi,1693,57.81
+2008,Unintentional Injuries,Missouri,2997,48.93
+2008,Unintentional Injuries,Montana,592,59.07
+2008,Unintentional Injuries,Nebraska,714,37.09
+2008,Unintentional Injuries,Nevada,1134,43.99
+2008,Unintentional Injuries,New Hampshire,488,35.35
+2008,Unintentional Injuries,New Jersey,2436,26.68
+2008,Unintentional Injuries,New Mexico,1366,69.26
+2008,Unintentional Injuries,New York,5042,24.79
+2008,Unintentional Injuries,North Carolina,4313,46.41
+2008,Unintentional Injuries,North Dakota,342,47.15
+2008,Unintentional Injuries,Ohio,5093,42.29
+2008,Unintentional Injuries,Oklahoma,2119,57.15
+2008,Unintentional Injuries,Oregon,1674,41.71
+2008,Unintentional Injuries,Pennsylvania,5787,42.07
+2008,Unintentional Injuries,Rhode Island,480,40.55
+2008,Unintentional Injuries,South Carolina,2285,50.37
+2008,Unintentional Injuries,South Dakota,381,43.35
+2008,Unintentional Injuries,Tennessee,3250,51.46
+2008,Unintentional Injuries,Texas,9189,40.39
+2008,Unintentional Injuries,Utah,881,37.83
+2008,Unintentional Injuries,Vermont,306,44.47
+2008,Unintentional Injuries,Virginia,2820,36.21
+2008,Unintentional Injuries,Washington,2727,40.78
+2008,Unintentional Injuries,West Virginia,1253,65.54
+2008,Unintentional Injuries,Wisconsin,2484,40.82
+2008,Unintentional Injuries,Wyoming,351,64.32
+2009,Unintentional Injuries,Alabama,2351,49.04
+2009,Unintentional Injuries,Alaska,340,53.28
+2009,Unintentional Injuries,Arizona,2919,45.52
+2009,Unintentional Injuries,Arkansas,1473,50.16
+2009,Unintentional Injuries,California,10860,29.38
+2009,Unintentional Injuries,Colorado,2144,44.49
+2009,Unintentional Injuries,Connecticut,1293,32.96
+2009,Unintentional Injuries,Delaware,333,36.75
+2009,Unintentional Injuries,District of Columbia,145,24.6
+2009,Unintentional Injuries,Florida,8746,43.37
+2009,Unintentional Injuries,Georgia,3812,42.12
+2009,Unintentional Injuries,Hawaii,436,30.17
+2009,Unintentional Injuries,Idaho,670,44.04
+2009,Unintentional Injuries,Illinois,3961,30.42
+2009,Unintentional Injuries,Indiana,2577,39.33
+2009,Unintentional Injuries,Iowa,1255,37
+2009,Unintentional Injuries,Kansas,1273,42.94
+2009,Unintentional Injuries,Kentucky,2394,55.06
+2009,Unintentional Injuries,Louisiana,2142,48.02
+2009,Unintentional Injuries,Maine,602,40.93
+2009,Unintentional Injuries,Maryland,1415,24.26
+2009,Unintentional Injuries,Massachusetts,2076,29.3
+2009,Unintentional Injuries,Michigan,3682,35.8
+2009,Unintentional Injuries,Minnesota,2037,36.22
+2009,Unintentional Injuries,Mississippi,1658,56.35
+2009,Unintentional Injuries,Missouri,2939,47.51
+2009,Unintentional Injuries,Montana,619,60.3
+2009,Unintentional Injuries,Nebraska,683,35.59
+2009,Unintentional Injuries,Nevada,1025,38.95
+2009,Unintentional Injuries,New Hampshire,482,34.81
+2009,Unintentional Injuries,New Jersey,1875,20.06
+2009,Unintentional Injuries,New Mexico,1281,63.8
+2009,Unintentional Injuries,New York,4891,23.88
+2009,Unintentional Injuries,North Carolina,4136,43.63
+2009,Unintentional Injuries,North Dakota,324,44.13
+2009,Unintentional Injuries,Ohio,4012,33.14
+2009,Unintentional Injuries,Oklahoma,2284,61.22
+2009,Unintentional Injuries,Oregon,1598,39.25
+2009,Unintentional Injuries,Pennsylvania,5477,39.43
+2009,Unintentional Injuries,Rhode Island,428,36.07
+2009,Unintentional Injuries,South Carolina,2229,47.96
+2009,Unintentional Injuries,South Dakota,349,40.71
+2009,Unintentional Injuries,Tennessee,3231,50.62
+2009,Unintentional Injuries,Texas,9349,40.23
+2009,Unintentional Injuries,Utah,899,38.17
+2009,Unintentional Injuries,Vermont,308,43.53
+2009,Unintentional Injuries,Virginia,2622,33.25
+2009,Unintentional Injuries,Washington,2696,39.42
+2009,Unintentional Injuries,West Virginia,942,48.15
+2009,Unintentional Injuries,Wisconsin,2449,40.01
+2009,Unintentional Injuries,Wyoming,299,53.69
+2010,Unintentional Injuries,Alabama,2394,49.61
+2010,Unintentional Injuries,Alaska,366,58.66
+2010,Unintentional Injuries,Arizona,3018,46.73
+2010,Unintentional Injuries,Arkansas,1461,49.39
+2010,Unintentional Injuries,California,10435,27.78
+2010,Unintentional Injuries,Colorado,2106,43.49
+2010,Unintentional Injuries,Connecticut,1337,33.59
+2010,Unintentional Injuries,Delaware,357,39.18
+2010,Unintentional Injuries,District of Columbia,212,35.08
+2010,Unintentional Injuries,Florida,8875,43.1
+2010,Unintentional Injuries,Georgia,3745,40.7
+2010,Unintentional Injuries,Hawaii,432,29.62
+2010,Unintentional Injuries,Idaho,654,42.14
+2010,Unintentional Injuries,Illinois,3997,30.39
+2010,Unintentional Injuries,Indiana,2534,38.48
+2010,Unintentional Injuries,Iowa,1273,37.23
+2010,Unintentional Injuries,Kansas,1317,43.98
+2010,Unintentional Injuries,Kentucky,2632,60.54
+2010,Unintentional Injuries,Louisiana,1999,44.41
+2010,Unintentional Injuries,Maine,540,36.55
+2010,Unintentional Injuries,Maryland,1446,24.66
+2010,Unintentional Injuries,Massachusetts,2060,28.54
+2010,Unintentional Injuries,Michigan,3770,36.23
+2010,Unintentional Injuries,Minnesota,2103,36.74
+2010,Unintentional Injuries,Mississippi,1685,56.81
+2010,Unintentional Injuries,Missouri,2975,47.94
+2010,Unintentional Injuries,Montana,548,53.22
+2010,Unintentional Injuries,Nebraska,700,35.76
+2010,Unintentional Injuries,Nevada,1088,41.32
+2010,Unintentional Injuries,New Hampshire,517,37.25
+2010,Unintentional Injuries,New Jersey,2486,26.7
+2010,Unintentional Injuries,New Mexico,1233,60.73
+2010,Unintentional Injuries,New York,5004,24.19
+2010,Unintentional Injuries,North Carolina,4144,43.17
+2010,Unintentional Injuries,North Dakota,285,38.75
+2010,Unintentional Injuries,Ohio,5124,42.36
+2010,Unintentional Injuries,Oklahoma,2288,60.32
+2010,Unintentional Injuries,Oregon,1566,37.84
+2010,Unintentional Injuries,Pennsylvania,5751,41.13
+2010,Unintentional Injuries,Rhode Island,475,40.05
+2010,Unintentional Injuries,South Carolina,2274,48.86
+2010,Unintentional Injuries,South Dakota,393,44.49
+2010,Unintentional Injuries,Tennessee,3539,54.9
+2010,Unintentional Injuries,Texas,9212,39.04
+2010,Unintentional Injuries,Utah,970,40.62
+2010,Unintentional Injuries,Vermont,298,42.67
+2010,Unintentional Injuries,Virginia,2527,31.64
+2010,Unintentional Injuries,Washington,2609,37.59
+2010,Unintentional Injuries,West Virginia,1234,63.67
+2010,Unintentional Injuries,Wisconsin,2525,40.82
+2010,Unintentional Injuries,Wyoming,346,59.82
+2011,Unintentional Injuries,Alabama,2662,54.36
+2011,Unintentional Injuries,Alaska,385,57.29
+2011,Unintentional Injuries,Arizona,3096,46.8
+2011,Unintentional Injuries,Arkansas,1510,50.15
+2011,Unintentional Injuries,California,10824,28.33
+2011,Unintentional Injuries,Colorado,2330,46.47
+2011,Unintentional Injuries,Connecticut,1339,33.34
+2011,Unintentional Injuries,Delaware,338,36.44
+2011,Unintentional Injuries,District of Columbia,185,29.37
+2011,Unintentional Injuries,Florida,8901,42.04
+2011,Unintentional Injuries,Georgia,3785,40.19
+2011,Unintentional Injuries,Hawaii,517,34.35
+2011,Unintentional Injuries,Idaho,710,44.7
+2011,Unintentional Injuries,Illinois,4166,31.62
+2011,Unintentional Injuries,Indiana,2699,40.59
+2011,Unintentional Injuries,Iowa,1369,39.57
+2011,Unintentional Injuries,Kansas,1333,43.8
+2011,Unintentional Injuries,Kentucky,2608,59.52
+2011,Unintentional Injuries,Louisiana,2091,45.81
+2011,Unintentional Injuries,Maine,574,38.32
+2011,Unintentional Injuries,Maryland,1569,26.07
+2011,Unintentional Injuries,Massachusetts,2224,30.72
+2011,Unintentional Injuries,Michigan,3951,38.02
+2011,Unintentional Injuries,Minnesota,2319,39.87
+2011,Unintentional Injuries,Mississippi,1724,57.9
+2011,Unintentional Injuries,Missouri,3169,50.53
+2011,Unintentional Injuries,Montana,609,56.8
+2011,Unintentional Injuries,Nebraska,678,33.63
+2011,Unintentional Injuries,Nevada,1155,42.8
+2011,Unintentional Injuries,New Hampshire,553,38.38
+2011,Unintentional Injuries,New Jersey,2685,28.56
+2011,Unintentional Injuries,New Mexico,1336,64.38
+2011,Unintentional Injuries,New York,5537,26.4
+2011,Unintentional Injuries,North Carolina,4297,43.77
+2011,Unintentional Injuries,North Dakota,298,39.06
+2011,Unintentional Injuries,Ohio,5275,43.44
+2011,Unintentional Injuries,Oklahoma,2261,58.77
+2011,Unintentional Injuries,Oregon,1722,40.58
+2011,Unintentional Injuries,Pennsylvania,6216,44.36
+2011,Unintentional Injuries,Rhode Island,541,44.58
+2011,Unintentional Injuries,South Carolina,2285,48.17
+2011,Unintentional Injuries,South Dakota,411,45.03
+2011,Unintentional Injuries,Tennessee,3485,53.33
+2011,Unintentional Injuries,Texas,9410,38.66
+2011,Unintentional Injuries,Utah,1058,42.92
+2011,Unintentional Injuries,Vermont,301,42.38
+2011,Unintentional Injuries,Virginia,2809,34.42
+2011,Unintentional Injuries,Washington,2709,38.05
+2011,Unintentional Injuries,West Virginia,1432,74.8
+2011,Unintentional Injuries,Wisconsin,2680,42.82
+2011,Unintentional Injuries,Wyoming,317,56.18
+2012,Unintentional Injuries,Alabama,2283,46.57
+2012,Unintentional Injuries,Alaska,368,54.13
+2012,Unintentional Injuries,Arizona,3029,45.14
+2012,Unintentional Injuries,Arkansas,1521,49.95
+2012,Unintentional Injuries,California,10906,28.02
+2012,Unintentional Injuries,Colorado,2403,47.05
+2012,Unintentional Injuries,Connecticut,1392,34.65
+2012,Unintentional Injuries,Delaware,374,38.83
+2012,Unintentional Injuries,District of Columbia,194,31.28
+2012,Unintentional Injuries,Florida,8770,39.91
+2012,Unintentional Injuries,Georgia,3731,39.02
+2012,Unintentional Injuries,Hawaii,458,30.11
+2012,Unintentional Injuries,Idaho,699,43.65
+2012,Unintentional Injuries,Illinois,4488,33.57
+2012,Unintentional Injuries,Indiana,2776,41.42
+2012,Unintentional Injuries,Iowa,1369,39.69
+2012,Unintentional Injuries,Kansas,1319,43.58
+2012,Unintentional Injuries,Kentucky,2741,61.97
+2012,Unintentional Injuries,Louisiana,2362,51.05
+2012,Unintentional Injuries,Maine,602,40.39
+2012,Unintentional Injuries,Maryland,1696,27.72
+2012,Unintentional Injuries,Massachusetts,2195,29.84
+2012,Unintentional Injuries,Michigan,3805,36.6
+2012,Unintentional Injuries,Minnesota,2301,39.06
+2012,Unintentional Injuries,Mississippi,1627,54.49
+2012,Unintentional Injuries,Missouri,3002,47.84
+2012,Unintentional Injuries,Montana,572,52.79
+2012,Unintentional Injuries,Nebraska,792,39.81
+2012,Unintentional Injuries,Nevada,1177,42.38
+2012,Unintentional Injuries,New Hampshire,573,40.13
+2012,Unintentional Injuries,New Jersey,2990,31.66
+2012,Unintentional Injuries,New Mexico,1351,64.95
+2012,Unintentional Injuries,New York,5786,27.4
+2012,Unintentional Injuries,North Carolina,4281,43.02
+2012,Unintentional Injuries,North Dakota,318,41.08
+2012,Unintentional Injuries,Ohio,5420,44.66
+2012,Unintentional Injuries,Oklahoma,2388,61.56
+2012,Unintentional Injuries,Oregon,1709,39.86
+2012,Unintentional Injuries,Pennsylvania,6334,44.97
+2012,Unintentional Injuries,Rhode Island,525,44.09
+2012,Unintentional Injuries,South Carolina,2336,48.25
+2012,Unintentional Injuries,South Dakota,426,47.42
+2012,Unintentional Injuries,Tennessee,3513,53.05
+2012,Unintentional Injuries,Texas,9313,37.42
+2012,Unintentional Injuries,Utah,1097,44.48
+2012,Unintentional Injuries,Vermont,333,47.38
+2012,Unintentional Injuries,Virginia,2883,34.53
+2012,Unintentional Injuries,Washington,2760,38.31
+2012,Unintentional Injuries,West Virginia,1371,70.8
+2012,Unintentional Injuries,Wisconsin,2825,44.67
+2012,Unintentional Injuries,Wyoming,308,52.92
+2013,Unintentional Injuries,Alabama,2329,47.24
+2013,Unintentional Injuries,Alaska,353,52.45
+2013,Unintentional Injuries,Arizona,3349,48.62
+2013,Unintentional Injuries,Arkansas,1373,44.84
+2013,Unintentional Injuries,California,11538,29.17
+2013,Unintentional Injuries,Colorado,2422,46.42
+2013,Unintentional Injuries,Connecticut,1582,39.31
+2013,Unintentional Injuries,Delaware,412,42.92
+2013,Unintentional Injuries,District of Columbia,216,33.58
+2013,Unintentional Injuries,Florida,8736,39.07
+2013,Unintentional Injuries,Georgia,3727,38.26
+2013,Unintentional Injuries,Hawaii,467,30.1
+2013,Unintentional Injuries,Idaho,776,47.69
+2013,Unintentional Injuries,Illinois,4511,33.6
+2013,Unintentional Injuries,Indiana,2898,43.07
+2013,Unintentional Injuries,Iowa,1422,39.97
+2013,Unintentional Injuries,Kansas,1359,44.37
+2013,Unintentional Injuries,Kentucky,2513,55.71
+2013,Unintentional Injuries,Louisiana,2333,50.51
+2013,Unintentional Injuries,Maine,644,42.61
+2013,Unintentional Injuries,Maryland,1732,27.92
+2013,Unintentional Injuries,Massachusetts,2393,32.52
+2013,Unintentional Injuries,Michigan,4225,40.05
+2013,Unintentional Injuries,Minnesota,2405,40.13
+2013,Unintentional Injuries,Mississippi,1692,55.6
+2013,Unintentional Injuries,Missouri,2981,47.02
+2013,Unintentional Injuries,Montana,623,57.65
+2013,Unintentional Injuries,Nebraska,703,34.9
+2013,Unintentional Injuries,Nevada,1184,41.94
+2013,Unintentional Injuries,New Hampshire,619,42.51
+2013,Unintentional Injuries,New Jersey,3028,31.79
+2013,Unintentional Injuries,New Mexico,1245,59.03
+2013,Unintentional Injuries,New York,5927,27.75
+2013,Unintentional Injuries,North Carolina,4324,42.7
+2013,Unintentional Injuries,North Dakota,326,41.73
+2013,Unintentional Injuries,Ohio,5497,45.03
+2013,Unintentional Injuries,Oklahoma,2474,62.7
+2013,Unintentional Injuries,Oregon,1755,40.12
+2013,Unintentional Injuries,Pennsylvania,6359,44.93
+2013,Unintentional Injuries,Rhode Island,537,45.26
+2013,Unintentional Injuries,South Carolina,2287,46.63
+2013,Unintentional Injuries,South Dakota,425,46.67
+2013,Unintentional Injuries,Tennessee,3540,52.73
+2013,Unintentional Injuries,Texas,9395,36.96
+2013,Unintentional Injuries,Utah,1103,43.39
+2013,Unintentional Injuries,Vermont,352,49.62
+2013,Unintentional Injuries,Virginia,2951,34.85
+2013,Unintentional Injuries,Washington,2826,38.74
+2013,Unintentional Injuries,West Virginia,1395,71.66
+2013,Unintentional Injuries,Wisconsin,2969,46.79
+2013,Unintentional Injuries,Wyoming,325,55.24
