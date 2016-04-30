@@ -31,7 +31,7 @@ cancer = function(x)
   
   gg <- gg + scale_fill_distiller(palette = "Greens", direction = 1)
   
-  gg <- gg + labs(x=NULL, y=NULL) + ggtitle("Cancer Deaths per 100,000")
+  gg <- gg + labs(x=NULL, y=NULL) + ggtitle(paste0(x, " Cancer Deaths per 100,000"))
   
   gg <- gg + coord_map("albers", lat0 = 39, lat1 = 45)
   
