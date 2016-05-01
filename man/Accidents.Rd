@@ -7,9 +7,12 @@
 Accidents(x)
 }
 \arguments{
-\item{numeric}{value}
+\item{x}{user inputed year from 1999-2013}
 }
 \value{
 Colorpleth of Accident related deaths
+}
+\description{
+This function creates a colorpleth of Accident related deaths by year.
 }
 

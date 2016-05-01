@@ -7,9 +7,12 @@
 alzheimer(x)
 }
 \arguments{
-\item{numeric}{value}
+\item{x}{user inputed year from 1999-2013}
 }
 \value{
 Colorpleth of Alzheimer related deaths
+}
+\description{
+This function creates a colorpleth of Alzheimer related deaths by year.
 }
 

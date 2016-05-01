@@ -7,9 +7,12 @@
 cancer(x)
 }
 \arguments{
-\item{numeric}{value}
+\item{x}{user inputed year from 1999-2013}
 }
 \value{
 Colorpleth of cancer related deaths
+}
+\description{
+This function creates a colorpleth of Cancer related deaths by year.
 }
 
