@@ -8,9 +8,6 @@
 top10 = function(x)
 {
   
-  library(ggplot2)
-  library(dplyr)
-  
   us <- map_data("state")
   
   AADR.DF <- read.csv("data/AADR-all.csv")
