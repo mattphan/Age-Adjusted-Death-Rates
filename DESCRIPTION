@@ -5,7 +5,6 @@ Version: 1.0
 Date: 2016-04-27
 Authors@R: person("Matthew", "Phan", email = "maphan@mail.usf.edu",
   role = c("aut", "cre"))
-Maintainer: Who to complain to <maphan@mail.usf.edu>
 Description: This package creates colorphleths of US Deaths from 
   1999 - 2013 for four categories: Accidents, alzheimer, cancer,
   and the top 10 deaths combined. The data was reported by the
@@ -15,8 +14,7 @@ Description: This package creates colorphleths of US Deaths from
   will produce the map for the ailment at that particular year.
   Example: >cancer(2011)
 Imports:
-  dplyr,
-  ggplot2
-License: GNU
+  dplyr, ggplot2
+License: GPL-2
 RoxygenNote: 5.0.1
 Suggests: testthat
