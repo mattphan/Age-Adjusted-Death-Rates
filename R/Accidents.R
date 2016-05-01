@@ -1,6 +1,7 @@
 #' @title Accidents
-#' @param numeric value
 #' @return Colorpleth of Accident related deaths
+#' @description This function creates a colorpleth of Accident related deaths by year.
+#' @param x user inputed year from 1999-2013
 #' @export
 #'
 
@@ -17,7 +18,7 @@ Accidents = function(x)
   AccidentwYear <- subset(AADR.DF, YEAR == x, select=c (YEAR, region, DEATHS, AADR))
   
   AccidentwYear <- AccidentwYear %>% 
-    mutate(region=tolower(region))
+    dplyr::mutate(region=tolower(region))
   
   gg <- ggplot()
   
@@ -26,7 +27,7 @@ Accidents = function(x)
                       fill="#ffffff", color="#ffffff", size=0.15)
   
   gg <- gg + geom_map(data=AccidentwYear, map=us,
-                      aes(fill=AADR, map_id=region),
+                      aes(fill=DEATHS, map_id=region),
                       color="#ffffff", size=0.15)
   
   gg <- gg + scale_fill_distiller(palette = "YlOrRd", direction = 1)

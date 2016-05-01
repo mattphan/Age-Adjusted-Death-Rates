@@ -1,6 +1,7 @@
 #' @title alzheimer
-#' @param numeric value
+#' @param x user inputed year from 1999-2013
 #' @return Colorpleth of Alzheimer related deaths
+#' @description This function creates a colorpleth of Alzheimer related deaths by year.
 #' @export
 #'
 
@@ -26,7 +27,7 @@ alzheimer = function(x)
                       fill="#ffffff", color="#ffffff", size=0.15)
   
   gg <- gg + geom_map(data=alzheimerwYear, map=us,
-                      aes(fill=AADR, map_id=region),
+                      aes(fill=DEATHS, map_id=region),
                       color="#ffffff", size=0.15)
   
   gg <- gg + scale_fill_distiller(palette = "Purples", direction = 1)

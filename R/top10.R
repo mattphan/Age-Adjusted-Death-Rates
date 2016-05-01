@@ -1,6 +1,7 @@
 #' @title top10
-#' @param numeric value
+#' @param x user inputed year from 1999-2013
 #' @return Colorpleth of the top 10 types of death
+#' @description This function creates a colorpleth of the Top 10 deaths by year.
 #' @export
 #'
 
@@ -26,7 +27,7 @@ top10 = function(x)
                       fill="#ffffff", color="#ffffff", size=0.15)
   
   gg <- gg + geom_map(data=top10wYear, map=us,
-                      aes(fill=AADR, map_id=region),
+                      aes(fill=DEATHS, map_id=region),
                       color="#ffffff", size=0.15)
   
   gg <- gg + scale_fill_distiller(palette = "YlGn", direction = 1)
