@@ -5,9 +5,6 @@
 \alias{AADR-all}
 \title{Number of deaths for the top 10 causes in the US from 1999-2013}
 \format{Comma Separate Value file with 765 rows and 5 variables.}
-\usage{
-data(AADR-all)
-}
 \description{
 A dataset containing the Age Adjusted Death Rates and number of 
 deaths for top 10 causes listed by region and year. The variables

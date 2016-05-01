@@ -15,6 +15,5 @@
 #' @docType data
 #' @keywords datasets
 #' @name AADR-alzheimer
-#' @usage data(AADR-alzheimer)
 #' @format Comma Separate Value file with 765 rows and 5 variables.
 NULL

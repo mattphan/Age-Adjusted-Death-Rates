@@ -5,9 +5,6 @@
 \alias{AADR-alzheimer}
 \title{Number of deaths for alzheimers in the US from 1999-2013}
 \format{Comma Separate Value file with 765 rows and 5 variables.}
-\usage{
-data(AADR-alzheimer)
-}
 \description{
 A dataset containing the Age Adjusted Death Rates and number of 
 deaths for alzheimers listed by region and year. The variables
