@@ -2,6 +2,7 @@
 #' @return Colorpleth of Accident related deaths
 #' @description This function creates a colorpleth of Accident related deaths by year.
 #' @param x user inputed year from 1999-2013
+#' @import dplyr ggplot2
 #' @export
 #'
 
@@ -12,10 +13,12 @@ Accidents = function(x)
   
   AADR.DF <- read.csv("data/AADR-accidents.csv")
   
+  YEAR=region=DEATHS=AADR=long=lat=NULL
+  
   AccidentwYear <- subset(AADR.DF, YEAR == x, select=c (YEAR, region, DEATHS, AADR))
   
   AccidentwYear <- AccidentwYear %>% 
-    dplyr::mutate(region=tolower(region))
+    mutate(region=tolower(region))
   
   gg <- ggplot()
   

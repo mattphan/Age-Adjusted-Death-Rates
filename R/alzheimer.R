@@ -2,6 +2,7 @@
 #' @param x user inputed year from 1999-2013
 #' @return Colorpleth of Alzheimer related deaths
 #' @description This function creates a colorpleth of Alzheimer related deaths by year.
+#' @import dplyr ggplot2
 #' @export
 #'
 
@@ -11,6 +12,8 @@ alzheimer = function(x)
   us <- map_data("state")
   
   AADR.DF <- read.csv("data/AADR-alzheimer.csv")
+  
+  YEAR=region=DEATHS=AADR=long=lat=NULL
   
   alzheimerwYear <- subset(AADR.DF, YEAR == x, select=c (YEAR, region, DEATHS, AADR))
   

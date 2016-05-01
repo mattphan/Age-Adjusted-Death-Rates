@@ -2,6 +2,7 @@
 #' @param x user inputed year from 1999-2013
 #' @return Colorpleth of the top 10 types of death
 #' @description This function creates a colorpleth of the Top 10 deaths by year.
+#' @import dplyr ggplot2
 #' @export
 #'
 
@@ -11,6 +12,8 @@ top10 = function(x)
   us <- map_data("state")
   
   AADR.DF <- read.csv("data/AADR-all.csv")
+  
+  YEAR=region=DEATHS=AADR=long=lat=NULL
   
   top10wYear <- subset(AADR.DF, YEAR == x, select=c (YEAR, region, DEATHS, AADR))
   
