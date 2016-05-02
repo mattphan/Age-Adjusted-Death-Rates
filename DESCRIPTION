@@ -1,7 +1,7 @@
 Package: USDeathChoropleths
 Type: Package
 Title: This package creates choropleths of US Deaths
-Version: 1.0
+Version: 1.0.1
 Date: 2016-04-27
 Authors@R: person("Matthew", "Phan", email = "maphan@mail.usf.edu",
   role = c("aut", "cre"))
