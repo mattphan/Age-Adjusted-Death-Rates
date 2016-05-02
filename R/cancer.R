@@ -1,7 +1,7 @@
 #' @title cancer
 #' @param x user inputed year from 1999-2013
-#' @return Colorpleth of cancer related deaths
-#' @description This function creates a colorpleth of Cancer related deaths by year.
+#' @return Choropleth of cancer related deaths
+#' @description This function creates a choropleth of Cancer related deaths by year.
 #' @import dplyr ggplot2
 #' @export
 #'

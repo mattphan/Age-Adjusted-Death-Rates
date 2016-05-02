@@ -1,6 +1,6 @@
 #' @title Accidents
-#' @return Colorpleth of Accident related deaths
-#' @description This function creates a colorpleth of Accident related deaths by year.
+#' @return Choropleth of Accident related deaths
+#' @description This function creates a choropleth of Accident related deaths by year.
 #' @param x user inputed year from 1999-2013
 #' @import dplyr ggplot2
 #' @export

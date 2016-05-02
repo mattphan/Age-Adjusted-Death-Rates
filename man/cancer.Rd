@@ -10,9 +10,9 @@ cancer(x)
 \item{x}{user inputed year from 1999-2013}
 }
 \value{
-Colorpleth of cancer related deaths
+Choropleth of cancer related deaths
 }
 \description{
-This function creates a colorpleth of Cancer related deaths by year.
+This function creates a choropleth of Cancer related deaths by year.
 }
 

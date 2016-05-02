@@ -1,7 +1,7 @@
 #' @title top10
 #' @param x user inputed year from 1999-2013
-#' @return Colorpleth of the top 10 types of death
-#' @description This function creates a colorpleth of the Top 10 deaths by year.
+#' @return Choropleth of the top 10 types of death
+#' @description This function creates a choropleth of the Top 10 deaths by year.
 #' @import dplyr ggplot2
 #' @export
 #'

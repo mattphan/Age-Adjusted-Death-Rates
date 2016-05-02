@@ -1,7 +1,7 @@
 #' @title alzheimer
 #' @param x user inputed year from 1999-2013
-#' @return Colorpleth of Alzheimer related deaths
-#' @description This function creates a colorpleth of Alzheimer related deaths by year.
+#' @return Choropleth of Alzheimer related deaths
+#' @description This function creates a choropleth of Alzheimer related deaths by year.
 #' @import dplyr ggplot2
 #' @export
 #'

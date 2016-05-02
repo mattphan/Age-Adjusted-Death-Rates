@@ -10,9 +10,9 @@ top10(x)
 \item{x}{user inputed year from 1999-2013}
 }
 \value{
-Colorpleth of the top 10 types of death
+Choropleth of the top 10 types of death
 }
 \description{
-This function creates a colorpleth of the Top 10 deaths by year.
+This function creates a choropleth of the Top 10 deaths by year.
 }
 

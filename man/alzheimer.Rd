@@ -10,9 +10,9 @@ alzheimer(x)
 \item{x}{user inputed year from 1999-2013}
 }
 \value{
-Colorpleth of Alzheimer related deaths
+Choropleth of Alzheimer related deaths
 }
 \description{
-This function creates a colorpleth of Alzheimer related deaths by year.
+This function creates a choropleth of Alzheimer related deaths by year.
 }
 

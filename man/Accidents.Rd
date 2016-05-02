@@ -10,9 +10,9 @@ Accidents(x)
 \item{x}{user inputed year from 1999-2013}
 }
 \value{
-Colorpleth of Accident related deaths
+Choropleth of Accident related deaths
 }
 \description{
-This function creates a colorpleth of Accident related deaths by year.
+This function creates a choropleth of Accident related deaths by year.
 }
 
