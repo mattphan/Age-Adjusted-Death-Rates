@@ -1,4 +1,4 @@
 library(testthat)
-library(AgeAjustedDeathRates)
+library(USDeathChoropleths)
 
-test_check("AgeAjustedDeathRates")
+test_check("USDeathChoropleths")
